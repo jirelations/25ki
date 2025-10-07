@@ -1,475 +1,399 @@
 ---
 references:
-- id: assmannMonotheismCurseBlessing2018a
+- id: AllgemeineEmpfehlungenIm
   accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Assmann
-      given: Jan
-  citation-key: assmannMonotheismCurseBlessing2018a
-  collection-number: '9'
-  collection-title: Routledge research in religion and education
-  container-title: >-
-    Public theology, religious diversity, and interreligious learning:
-    Contributing to the common good through religious education
-  DOI: 10.11588/propylaeumdok.00005462
-  editor:
-    - family: Pirner
-      given: Manfred L.
-    - family: Lähnemann
-      given: Johannes
-    - family: Haussmann
-      given: Werner
-    - family: Schwarz,
-      given: Susanne
-  event-place: New York ; London
-  issued:
-    - year: 2018
-  language: eng
-  license: info:eu-repo/semantics/openAccess
-  page: 94-104
-  publisher: Routledge
-  publisher-place: New York ; London
-  title: Monotheism – curse or blessing?
-  type: chapter
-  URL: https://archiv.ub.uni-heidelberg.de/propylaeumdok/5462/
-  volume: '9'
-
-- id: beckingBoundariesIsraeliteMonotheism2008a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Becking
-      given: Bob
-  citation-key: beckingBoundariesIsraeliteMonotheism2008a
-  container-title: >-
-    The Boundaries of Monotheism: Interdisciplinary Explorations into the
-    Foundations of Western Monotheism
-  editor:
-    - family: Haardt
-      given: Maaike
-      non-dropping-particle: de
-    - family: Korte
-      given: Anna-Marie J. A. C. M.
-  event-place: Boston
-  ISBN: 978-90-474-2663-9
-  issued:
-    - year: 2008
-  language: en
-  page: 9-27
-  publisher: Brill
-  publisher-place: Boston
-  source: ProQuest Ebook Central
-  title: The boundaries of Israelite monotheism
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
-
-- id: chatelioncounetDivineMessiahEarly2008a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Chatelion Counet
-      given: Patrick
-  citation-key: chatelioncounetDivineMessiahEarly2008a
-  container-title: >-
-    The Boundaries of Monotheism: Interdisciplinary Explorations into the
-    Foundations of Western Monotheism
-  editor:
-    - family: Haardt
-      given: Maaike
-      non-dropping-particle: de
-    - family: Korte
-      given: Anna-Marie J. A. C. M.
-  event-place: Boston
-  ISBN: 978-90-474-2663-9
-  issued:
-    - year: 2008
-  language: en
-  page: 28-52
-  publisher: Brill
-  publisher-place: Boston
-  source: ProQuest Ebook Central
-  title: 'The divine Messiah: Early Jewish monotheism and the New Testament'
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
-
-- id: collinsKingMessiahSon2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Collins
-      given: John J
-  citation-key: collinsKingMessiahSon2011a
-  container-title: Reconsidering the Concept of Revolutionary Monotheism
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  page: 291-316
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: King and Messiah as Son of God
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: dehaardtBoundariesMonotheismInterdisciplinary2008c
-  abstract: >-
-    What is the significance of monotheism in modern western culture, taking
-    into account both its problematic and promising aspects? Biblical texts and
-    the biblical faith traditions bear a continuous, polemical tension between
-    exclusive and inclusive perceptions and interpretations of monotheism.
-    Western monotheism proves itself to be multi-significant and heterogeneous,
-    producing boundary-setting as well as boundary-crossing tendencies, is the
-    common thesis of the authors of this book, who have been collectively
-    debating this theme for two years in an interdisciplinary scholarly setting.
-    Their contributions range from the fields of biblical and religious studies,
-    history and philosophy of religion, systematic theology, to gender studies
-    in theology and religion.The authors also explain the particular
-    contribution of their own theological discipline to these debates.
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  citation-key: dehaardtBoundariesMonotheismInterdisciplinary2008c
-  editor:
-    - family: Haardt
-      given: Maaike
-      non-dropping-particle: de
-    - family: Korte
-      given: Anna-Marie J. A. C. M.
-  event-place: Boston
-  ISBN: 978-90-474-2663-9
-  issued:
-    - year: 2008
-  language: en
-  publisher: Brill
-  publisher-place: Boston
-  source: ProQuest Ebook Central
-  title: >-
-    The Boundaries of Monotheism: Interdisciplinary Explorations into the
-    Foundations of Western Monotheism
-  title-short: The Boundaries of Monotheism
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
-
-- id: gnuseNoOtherGods1997a
-  abstract: >-
-    This is the first full-scale assessment of the theological, social and
-    ideational implications of our new understandings of ancient Israel's social
-    and religious development. Scholars now stress the gradual emergence of
-    Israel out of the culture of ancient Palestine and the surrounding ancient
-    Near East rather than contrast Israel with the ancient world. Our new
-    paradigms stress the ongoing and unfinished nature of the monotheistic
-    'revolution', which is indeed still in process today. Gnuse takes a further
-    bold step in setting the emergence of monotheism in a wider intellectual
-    context: he argues brilliantly that the interpretation of Israel's
-    development as both an evolutionary and revolutionary process corresponds to
-    categories of contemporary evolutionary thought in the biological and
-    palaeontological sciences (Punctuated Equilibrium).
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Gnuse
-      given: Robert Karl
-  citation-key: gnuseNoOtherGods1997a
-  event-place: London, UNITED KINGDOM
-  ISBN: 978-0-567-37415-8
-  issued:
-    - year: 1997
-  publisher: Bloomsbury Publishing Plc
-  publisher-place: London, UNITED KINGDOM
-  source: ProQuest Ebook Central
-  title: 'No Other Gods: Emergent Monotheism in Israel'
-  title-short: No Other Gods
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D436625
-
-- id: langMonotheismus1998a
-  author:
-    - family: Lang
-      given: Bernard
-  call-number: '2'
-  citation-key: langMonotheismus1998a
-  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
-  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
-  editor:
-    - family: Cancik
-      given: Hubert
-    - family: Gladigow
-      given: Burkhard
-    - family: Kohl
-      given: Karl-Heinz
-  event-place: Stuttgart
-  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
-  issued:
-    - year: 1998
-  language: de
-  number-of-volumes: '5'
-  page: 148-165
-  publisher: W. Kohlhammer
-  publisher-place: Stuttgart
-  source: BnF ISBN
-  title: Monotheismus
-  type: chapter
-  URL: >-
-    https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wn4eAAAAMAAJ?hl=de&gbpv=1&pg=PA148&printsec=frontcover
-  volume: '4'
-
-- id: markschiesPriceMonotheismNew2010a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Markschies
-      given: Christoph
-  citation-key: markschiesPriceMonotheismNew2010a
-  container-title: One God
-  DOI: 10.1017/CBO9780511730115.007
-  editor:
-    - family: Mitchell
-      given: Stephen
-    - family: Van Nuffelen
-      given: Peter
-  event-place: Cambridge
-  ISBN: 978-0-511-73011-5
-  issued:
-    - year: 2010
-  page: 100-111
-  publisher: Cambridge University Press
-  publisher-place: Cambridge
-  source: DOI.org (Crossref)
-  title: >-
-    The price of monotheism: Some new observations on a current debate about
-    late antiquity
-  title-short: The price of monotheism
-  type: chapter
-  URL: >-
-    https://www.cambridge.org/core/product/identifier/CBO9780511730115A013/type/book_part
-
-- id: mcgrathOnlyTrueGod2009a
-  abstract: >-
-    Monotheism is a powerful religious concept shaped by competing ideas and the
-    problems they raised. Surveying New Testament writings and Jewish sources
-    from before and after the rise of Christianity, James F. McGrath argues that
-    even the most developed Christologies in the New Testament fit within the
-    context of first century Jewish monotheism. McGrath pinpoints when the
-    parting of ways took place over the issue of God's oneness, and explores
-    philosophical ideas such as "creation out of nothing" which caused Jews and
-    Christians to develop differing concepts and definitions about God.
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: McGrath
-      given: James F.
-  citation-key: mcgrathOnlyTrueGod2009a
-  event-place: Champaign, UNITED STATES
-  ISBN: 978-0-252-09189-6
-  issued:
-    - year: 2009
-  publisher: University of Illinois Press
-  publisher-place: Champaign, UNITED STATES
-  source: ProQuest Ebook Central
-  title: 'The Only True God: Early Christian Monotheism in Its Jewish Context'
-  title-short: The Only True God
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3414053
-
-- id: pongratz-leistenNewAgendaStudy2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Pongratz-Leisten
-      given: Beate
-  citation-key: pongratz-leistenNewAgendaStudy2011a
-  container-title: Reconsidering the Concept of Revolutionary Monotheism
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  page: 1-40
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: A New Agenda for the Study of the Rise of Monotheism
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: pongratz-leistenReconsideringConceptRevolutionary2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  citation-key: pongratz-leistenReconsideringConceptRevolutionary2011a
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: Reconsidering the Concept of Revolutionary Monotheism
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: schmidQuestGodMonotheistic2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Schmid
-      given: Konrad
-  citation-key: schmidQuestGodMonotheistic2011a
-  container-title: Reconsidering the Concept of Revolutionary Monotheism
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  page: 271-290
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: >-
-    The Quest for “God”: Monotheistic Arguments in the Priestly Texts of the
-    Hebrew Bible
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: stroumsaIdeaSemiticMonotheism2021a
-  abstract: |-
-    In this work, a sequel to my
-                  A New Science: The Discovery of Religion in an Age of Reason
-                  (Cambridge, MA: Harvard University Press, 2010), I study some major aspects of the scholarly study of religion in the long nineteenth century—from the Enlightenment to the First World War. More precisely, I seek to understand the new status of Judaism and Islam in the formative period of the new discipline. In order to do that, I focus on the concept of Semitic monotheism, a concept developed by Ernest Renan around the mid-nineteenth century, on the basis of the postulated (and highly problematic) contradistinction between Aryan and Semitic families of peoples, cultures, and religions. This contradistinction grew from the Western discovery of Sanskrit and its relationship with European languages, at the time of the Enlightenment and Romanticism. Together with the rise of scholarly Orientalism, this discovery offered new perspectives on the East, as a consequence of which the Near East was demoted, as it were, from its traditional status as the locus of the biblical revelations. The book essentially studies a central issue in the modern study of religion. Doing so, however, it emphasizes that the new dualistic taxonomy of religions had major consequences and sheds new light on the roots of European attitudes to Jews and Muslims in the twentieth century and up to the present day.
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Stroumsa
-      given: Guy G.
-  citation-key: stroumsaIdeaSemiticMonotheism2021a
-  DOI: 10.1093/oso/9780192898685.001.0001
-  edition: '1'
-  event-place: Oxford
-  ISBN: 978-0-19-289868-5 978-0-19-192520-7
-  issued:
-    - year: 2021
-      month: 5
-      day: 20
-  language: en
-  publisher: Oxford University Press
-  publisher-place: Oxford
-  source: DOI.org (Crossref)
-  title: 'The Idea of Semitic Monotheism: The Rise and Fall of a Scholarly Myth'
-  title-short: The Idea of Semitic Monotheism
-  type: book
-  URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oso/9780192898685.001.0001
-
-- id: stuckenbruckEarlyJewishChristian2004a
-  abstract: >-
-    Early Christology must focus not simply on "historical" but also on
-    theological ideas found in contemporary Jewish thought and practice. In this
-    book, a range of distinguished contributors considers the context and
-    formation of early Jewish and Christian devotion to God alone-the emergence
-    of "monotheism." The idea of monotheism is critically examined from various
-    perspectives, including the history of ideas, Graeco-Roman religions, early
-    Jewish mediator figures, scripture exegesis, and the history of its use as a
-    theological category.The studies explore different ways of conceiving of
-    early Christian monotheism today, asking whether monotheism is a
-    conceptually useful category, whether it may be applied cautiously and with
-    qualifications, or whether it is to be questioned in favor of different
-    approaches to understanding the origins of Jewish and Christian beliefs and
-    worship.This is volume 1 in the Early Christianity in Context series and
-    volume 263 in the Journal for the Study of the New Testament Supplement
-    Series
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Stuckenbruck
-      given: Loren T.
-    - family: North
-      given: Wendy
-  citation-key: stuckenbruckEarlyJewishChristian2004a
-  event-place: London, UNITED KINGDOM
-  ISBN: 978-0-567-42917-9
-  issued:
-    - year: 2004
-  publisher: Bloomsbury Publishing Plc
-  publisher-place: London, UNITED KINGDOM
-  source: ProQuest Ebook Central
-  title: Early Jewish and Christian Monotheism
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D1749447
-
-- id: triggMonotheismReligiousDiversity2020a
-  abstract: >-
-    Cambridge Core - Religion: General Interest - Monotheism and Religious
-    Diversity
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Trigg
-      given: Roger
-  citation-key: triggMonotheismReligiousDiversity2020a
-  collection-title: Elements in Religion and Monotheism
-  DOI: 10.1017/9781108637503
-  event-place: Cambridge
-  ISBN: 978-1-108-63750-3 978-1-108-71445-7
-  issued:
-    - year: 2020
+    - year: 2025
       month: 8
+      day: 20
+  citation-key: AllgemeineEmpfehlungenIm
+  language: de
+  title: >-
+    Allgemeine Empfehlungen im Umgang mit generativer KI in Studium und Lehre –
+    Lehre virtuell
+  type: post-weblog
+  URL: >-
+    https://lehre-virtuell.uni-frankfurt.de/knowhow/allgemeine-empfehlungen-im-umgang-mit-generativer-ki-in-studium-und-lehre/
+
+- id: benderAIConHow2025
+  abstract: >-
+    A smart, incisive look at the technologies sold as artificial intelligence,
+    the drawbacks and pitfalls of technology sold under this banner, and why
+    it’s crucial to recognize the many ways in which AI hype covers for a small
+    set of power-hungry actors at work and in the world.Is artificial
+    intelligence going to take over the world? Have big tech scientists created
+    an artificial lifeform that can think on its own? Is it going to put
+    authors, artists, and others out of business? Are we about to enter an age
+    where computers are better than humans at everything?The answer to these
+    questions, linguist Emily M. Bender and sociologist Alex Hanna make clear,
+    is “no,” “they wish,” “LOL,” and “definitely not.” This kind of thinking is
+    a symptom of a phenomenon known as “AI hype.” Hype looks and smells fishy:
+    It twists words and helps the rich get richer by justifying data theft,
+    motivating surveillance capitalism, and devaluing human creativity in order
+    to replace meaningful work with jobs that treat people like machines. In The
+    AI Con, Bender and Hanna offer a sharp, witty, and wide-ranging take-down of
+    AI hype across its many forms.Bender and Hanna show you how to spot AI hype,
+    how to deconstruct it, and how to expose the power grabs it aims to hide.
+    Armed with these tools, you will be prepared to push back against AI hype at
+    work, as a consumer in the marketplace, as a skeptical newsreader, and as a
+    citizen holding policymakers to account. Together, Bender and Hanna expose
+    AI hype for what it is: a mask for Big Tech’s drive for profit, with little
+    concern for who it affects.
+  author:
+    - family: Bender
+      given: Emily M.
+    - family: Hanna
+      given: Alex
+  citation-key: benderAIConHow2025
+  event-place: New York
+  ISBN: 978-0-06-341856-1
+  issued:
+    - year: 2025
+  language: English
+  number-of-pages: '288'
+  publisher: Harper
+  publisher-place: New York
+  source: Amazon
+  title: 'The AI Con: How to Fight Big Tech''s Hype and Create the Future We Want'
+  title-short: The AI Con
+  type: book
+
+- id: cossioComprehensiveTaxonomyHallucinations2025
+  abstract: >-
+    Large language models (LLMs) have revolutionized natural language
+    processing, yet their propensity for ”hallucination”—generating plausible
+    but factually incorrect or fabricated content—remains a critical challenge.
+    This report provides a comprehensive taxonomy of LLM hallucinations,
+    beginning with a formal definition and a theoretical framework that posits
+    its inherent inevitability in computable LLMs, irrespective of architecture
+    or training. It explores core distinctions, differentiating between
+    intrinsic (contradicting input context) and extrinsic (inconsistent with
+    training data or reality), as well as factuality (absolute correctness) and
+    faithfulness (adherence to input). The report then details specific
+    manifestations, including factual errors, contextual and logical
+    inconsistencies, temporal disorientation, ethical violations, and
+    task-specific hallucinations across domains like code generation and
+    multimodal applications. It analyzes the underlying causes, categorizing
+    them into data-related issues, model-related factors, and prompt-related
+    influences. Furthermore, the report examines cognitive and human factors
+    influencing hallucination perception, surveys evaluation benchmarks and
+    metrics for detection, and outlines architectural and systemic mitigation
+    strategies. Finally, it introduces web-based resources for monitoring LLM
+    releases and performance. This report underscores the complex, multifaceted
+    nature of LLM hallucinations and emphasizes that, given their theoretical
+    inevitability, future efforts must focus on robust detection, mitigation,
+    and continuous human oversight for responsible and reliable deployment in
+    critical applications.
+  accessed:
+    - year: 2025
+      month: 8
+      day: 20
+  author:
+    - family: Cossio
+      given: Manuel
+  citation-key: cossioComprehensiveTaxonomyHallucinations2025
+  DOI: 10.48550/arXiv.2508.01781
+  issued:
+    - year: 2025
+      month: 8
+      day: 3
   language: en
-  publisher: Cambridge University Press
-  publisher-place: Cambridge
-  source: www-cambridge-org.proxy.ub.uni-frankfurt.de
-  title: Monotheism and Religious Diversity
+  number: arXiv:2508.01781
+  publisher: arXiv
+  source: arXiv.org
+  title: A comprehensive taxonomy of hallucinations in Large Language Models
+  type: article
+  URL: http://arxiv.org/abs/2508.01781
+
+- id: DistantViewingExplorer
+  accessed:
+    - year: 2025
+      month: 8
+      day: 20
+  citation-key: DistantViewingExplorer
+  title: Distant Viewing Explorer
+  type: webpage
+  URL: https://distantviewing.org/dvexplorer/
+
+- id: DSC23Dawn
+  abstract: >-
+    by Anastasia Salter, John Murray, and Lee Skallerup Bessette August 25, 2025
+    Prelude: The Clankers are Coming: Anastasia: You probably feel like you
+    already hear too much about generative AI. I kno...
+  accessed:
+    - year: 2025
+      month: 9
+      day: 2
+  citation-key: DSC23Dawn
+  container-title: Project name not set
+  language: en
+  title: 'DSC #23: Dawn of the Coasting AI'
+  title-short: 'DSC #23'
+  type: webpage
+  URL: https://datasittersclub.github.io/site/dsc23.html
+
+- id: haoEmpireAIDreams2025
+  abstract: >-
+    "When AI expert and investigative journalist Karen Hao first began covering
+    OpenAI in 2019, she thought they were the good guys. Founded as a nonprofit
+    with safety enshrined as its core mission, the organization was meant, its
+    leader Sam Altman told us, to act as a check against more purely mercantile,
+    and potentially dangerous, forces. What could go wrong? Over time, Hao began
+    to wrestle ever more deeply with that question. Increasingly, she realized
+    that the core truth of this massively disruptive sector is that its vision
+    of success requires an almost unprecedented amount of resources: the
+    "compute" power of high-end chips and the processing capacity to create
+    massive large language models, the sheer volume of data that needs to be
+    amassed at scale, the humans "cleaning up" that data for sweatshop wages
+    throughout the Global South, and a truly alarming spike in the usage of
+    energy and water underlying it all. The truth is that we have entered a new
+    and ominous age of empire: only a small handful of globally scaled companies
+    can even enter the field of play. At the head of the pack with its ChatGPT
+    breakthrough, how would OpenAI resist such temptations? Spoiler alert: it
+    didn't. Armed with Microsoft's billions, OpenAI is setting a breakneck pace,
+    chased by a small group of the most valuable companies in human
+    history--toward what end, not even they can define. All this time, Hao has
+    maintained her deep sourcing within the company and the industry, and so she
+    was in intimate contact with the story that shocked the entire tech
+    industry--Altman's sudden firing and triumphant return. The
+    behind-the-scenes story of what happened, told here in full for the first
+    time, is revelatory of who the people controlling this technology really
+    are. But this isn't just the story of a single company, however fascinating
+    it is. The g forces pressing down on the people of OpenAI are deforming the
+    judgment of everyone else too--as such forces do. Naked power finds the
+    ideology to cloak itself; no one thinks they're the bad guy. But in the
+    meantime, as Hao shows through intrepid reporting on the ground around the
+    world, the enormous wheels of extraction grind on. By drawing on the
+    viewpoints of Silicon Valley engineers, Kenyan data laborers, and Chilean
+    water activists, Hao presents the fullest picture of AI and its impact we've
+    seen to date, alongside a trenchant analysis of where things are headed. An
+    astonishing eyewitness view from both up in the command capsule of the new
+    economy and down where the real suffering happens, Empire of AI pierces the
+    veil of the industry defining our era" --Front sleeve of dust jacket
+  author:
+    - family: Hao
+      given: Karen
+  citation-key: haoEmpireAIDreams2025
+  event-place: New York
+  ISBN: 978-0-593-65750-8
+  issued:
+    - year: 2025
+  language: eng
+  note: 'OCLC: 1482119829'
+  number-of-pages: '482'
+  publisher: Penguin Press
+  publisher-place: New York
+  source: Open WorldCat
+  title: 'Empire of AI: dreams and nightmares in Sam Altman''s OpenAI'
+  title-short: Empire of AI
+  type: book
+
+- id: mollickCoIntelligenceLivingWorking2024
+  abstract: >-
+    AN INSTANT NEW YORK TIMES BESTSELLERFrom Wharton professor and author of the
+    popular One Useful Thing Substack newsletter Ethan Mollick comes the
+    definitive playbook for working, learning, and living in the new age of
+    AISomething new entered our world in November 2022 — the first general
+    purpose AI that could pass for a human and do the kinds of creative,
+    innovative work that only humans could do previously. Wharton professor
+    Ethan Mollick immediately understood what ChatGPT meant: after millions of
+    years on our own, humans had developed a kind of co-intelligence that could
+    augment, or even replace, human thinking. Through his writing, speaking, and
+    teaching, Mollick has become one of the most prominent and provocative
+    explainers of AI, focusing on the practical aspects of how these new tools
+    for thought can transform our world. In Co-Intelligence, Mollick urges us to
+    engage with AI as co-worker, co-teacher, and coach. He assesses its profound
+    impact on business and education, using dozens of real-time examples of AI
+    in action. Co-Intelligence shows what it means to think and work together
+    with smart machines, and why it's imperative that we master that skill.
+    Mollick challenges us to utilize AI's enormous power without losing our
+    identity, to learn from it without being misled, and to harness its gifts to
+    create a better human future. Wide ranging, hugely thought-provoking,
+    optimistic, and lucid, Co-Intelligence reveals the promise and power of this
+    new era.
+  author:
+    - family: Mollick
+      given: Ethan
+  citation-key: mollickCoIntelligenceLivingWorking2024
+  event-place: New York
+  ISBN: 978-0-593-71671-7
+  issued:
+    - year: 2024
+      month: 4
+      day: 2
+  language: English
+  number-of-pages: '256'
+  publisher: Portfolio
+  publisher-place: New York
+  source: Amazon
+  title: 'Co-Intelligence: Living and Working with AI'
+  title-short: Co-Intelligence
+  type: book
+
+- id: NavigatingArtificialIntelligence
+  abstract: >-
+    The question of how artificial intelligence and machine learning should be
+    applied to data in libraries and other cultural institutions is a challenge
+    shared by heritage professionals, computer scientists and digital humanities
+    scholars. As the number of digitised and born-digital records grows,
+    archival practices are looking to automated systems to manage workloads and
+    make cultural […]
+  accessed:
+    - year: 2025
+      month: 6
+      day: 13
+  citation-key: NavigatingArtificialIntelligence
+  ISBN: 978-1-80008-835-1 978-1-80008-836-8
+  language: en-GB
+  source: uclpress.co.uk
+  title: Navigating Artificial Intelligence for Cultural Heritage Organisations
   type: book
   URL: >-
-    https://www.cambridge.org/core/elements/monotheism-and-religious-diversity/478BBA8657D04822D85B4C78DCF093AA
+    https://uclpress.co.uk/book/navigating-artificial-intelligence-for-cultural-heritage-organisations/
+
+- id: reedLLMCodegenHeros2025
+  abstract: >-
+    A comprehensive guide detailing the evolution of using AI-assisted software
+    development, from basic code completion to fully autonomous coding agents,
+    with practical steps and insights for maximizing productivity through LLM
+    integration.
+  accessed:
+    - year: 2025
+      month: 4
+      day: 25
+  author:
+    - family: Reed
+      given: Harper
+  citation-key: reedLLMCodegenHeros2025
+  issued:
+    - year: 2025
+      month: 4
+      day: 17
+  language: en-US
+  section: post
+  title: An LLM Codegen Hero's Journey
+  type: webpage
+  URL: https://harper.blog/2025/04/17/an-llm-codegen-heros-journey/
+
+- id: reedMyLLMCodegen2025
+  abstract: >-
+    A detailed walkthrough of my current workflow for using LLms to build
+    software, from brainstorming through planning and execution.
+  accessed:
+    - year: 2025
+      month: 4
+      day: 25
+  author:
+    - family: Reed <harper@modest.com>
+      given: Harper
+  citation-key: reedMyLLMCodegen2025
+  issued:
+    - year: 2025
+      month: 2
+      day: 16
+  language: en-US
+  section: post
+  title: My LLM codegen workflow atm
+  type: webpage
+  URL: https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/
+
+- id: selokarBasicAdvancedRAG2024
+  abstract: >-
+    Welcome to “Basic to Advanced RAG using LlamaIndex ~1” the first installment
+    in a comprehensive blog series dedicated to exploring…
+  accessed:
+    - year: 2025
+      month: 6
+      day: 19
+  author:
+    - family: Selokar
+      given: Abhishek
+  citation-key: selokarBasicAdvancedRAG2024
+  container-title: Medium
+  issued:
+    - year: 2024
+      month: 9
+      day: 19
+  language: en
+  title: Basic to Advanced RAG using LlamaIndex ~1
+  type: post-weblog
+  URL: >-
+    https://medium.com/@imabhi1216/basic-to-advanced-rag-using-llamaindex-1-9270479df94f
+
+- id: siebertHalluzinationenGenerativerKI2024
+  abstract: >-
+    Wie entstehen KI-Halluzinationen bei generativer KI und großen
+    Sprachmodellen (LLM) und wie kann man falsche Ergebnisse vermeiden?
+  accessed:
+    - year: 2025
+      month: 8
+      day: 20
+  author:
+    - family: Siebert
+      given: Dr Julien
+  citation-key: siebertHalluzinationenGenerativerKI2024
+  container-title: Fraunhofer IESE
+  issued:
+    - year: 2024
+      month: 9
+      day: 20
+  language: de
+  title: >-
+    Halluzinationen von generativer KI und großen Sprachmodellen (LLMs) - Blog
+    des Fraunhofer IESE
+  type: post-weblog
+  URL: https://www.iese.fraunhofer.de/blog/halluzinationen-generative-ki-llm/
+
+- id: sjsucollegehaConversationAuthorsAI2025
+  abstract: Creative Commons Attribution license (reuse allowed)
+  accessed:
+    - year: 2025
+      month: 5
+      day: 19
+  citation-key: sjsucollegehaConversationAuthorsAI2025
+  dimensions: '1:08:48'
+  director:
+    - literal: SJSUCollegeHA
+  issued:
+    - year: 2025
+      month: 5
+      day: 18
+  source: YouTube
+  title: A Conversation with the Authors of The AI Con @ SJSU
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=1FcD3-FRWD4
+
+- id: TextualDataProcessing
+  abstract: >-
+    A short webinar of three episodes giving an introduction into the use of
+    Large Language Models in the Humanities Some research code related to this
+    webinar: ...
+  accessed:
+    - year: 2025
+      month: 6
+      day: 16
+  citation-key: TextualDataProcessing
+  container-title: YouTube
+  language: en
+  title: Textual Data Processing with LLM in the Humanities
+  type: webpage
+  URL: http://www.youtube.com/playlist?list=PLEgLiY_3gL-hNfDKFYGqF_fDQY4A6OY2o
+
+- id: WhenDataTurns
+  abstract: >-
+    The overall aim of this collection is to explore how AI can help improve the
+    preservation, access and usability of digital and born-digital archives. It
+    ...
+  accessed:
+    - year: 2025
+      month: 5
+      day: 23
+  citation-key: WhenDataTurns
+  container-title: SpringerLink
+  language: en
+  title: >-
+    When data turns into archives: making digital records more accessible with
+    AI
+  title-short: When data turns into archives
+  type: webpage
+  URL: https://link.springer.com/collections/eabccfhhbd
 ...
