@@ -1,92 +1,1203 @@
-﻿blank,session,date,filename,unit,topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
-,1,16.10,2023-10-16-1.md,,Introduction,1. Introduction,1,wool.jpg,1-Introduction,,"1. Get oriented to the way this course works.
-2. Explain why the story of each Abrahamic faith cannot be understood without the others.",[1],"---
+﻿blank,session,date,time,filename,unit,topic,long-topic,concepts,title,pad-slug,image,zotero-tag,zotero-readings,objective,Leitfrage,tags,contents,slide-filename,slide-frontmatter,slide-body1,slide-body2,slide-content
+,1,14.11,14:15-15:45,2025-11-14-1.md,Einleitung,Vorstellung,"Vorstellung, Ziele, Was ist KI?",,"1. Einleitung: Vorstellung, Ziele, Was ist KI?",1,robot-hand.jpg,1-Vorstellung,,,,[1],"---
 layout: post
 session: 1
 tags: [1]
 level: overview
----"
-,2,23.10,2023-10-23-2.md,,Monotheism,2. Monotheism,2,stars.jpg,2-Monotheism,"[beckingBoundariesIsraeliteMonotheism2008a, langMonotheismus1998a]","Describe how Abraham became a father of faith to Judaism, Christianity, and Islam.",[2],"---
+---",2025-11-14-1-slides.md,"---
+layout: reveal
+title: 'Vorstellung, Ziele, Was ist KI?'
+author: 'Nathan Gibson'
+session: 1
+tags: [1,slides]
+category: slides
+image: robot-hand.jpg
+parallaxBackgroundImage: 'assets/img/robot-hand.jpg'
+---
+","# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Vorstellung, Ziele, Was ist KI?
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+objective
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+KI aus ethischer Sicht","---
+layout: reveal
+title: 'Vorstellung, Ziele, Was ist KI?'
+author: 'Nathan Gibson'
+session: 1
+tags: [1,slides]
+category: slides
+image: robot-hand.jpg
+parallaxBackgroundImage: 'assets/img/robot-hand.jpg'
+---
+# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Vorstellung, Ziele, Was ist KI?
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+objective
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+KI aus ethischer Sicht"
+,2,14.11,16:15-17:45,2025-11-14-2.md,Einleitung,Ethik,KI aus ethischer Sicht,,2. Einleitung: KI aus ethischer Sicht,2,robot-bench.jpg,2-Ethik,,,,[2],"---
 layout: post
 session: 2
 tags: [2]
 level: overview
----"
-,3,30.10,2023-10-30-3.md,,Scripture & Prophets,3. Scripture & Prophets,3,isaiah.jpg,3-Scripture-Prophets,,,[3],"---
+---",2025-11-14-2-slides.md,"---
+layout: reveal
+title: 'KI aus ethischer Sicht'
+author: 'Nathan Gibson'
+session: 2
+tags: [2,slides]
+category: slides
+image: robot-bench.jpg
+parallaxBackgroundImage: 'assets/img/robot-bench.jpg'
+---
+","# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### KI aus ethischer Sicht
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Was gibt es für Daten in der Religionswissenschaft?","---
+layout: reveal
+title: 'KI aus ethischer Sicht'
+author: 'Nathan Gibson'
+session: 2
+tags: [2,slides]
+category: slides
+image: robot-bench.jpg
+parallaxBackgroundImage: 'assets/img/robot-bench.jpg'
+---
+# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### KI aus ethischer Sicht
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Was gibt es für Daten in der Religionswissenschaft?"
+,3,15.11,10:15-11:45,2025-11-15-3.md,Einleitung,Religionswissenschaftliche Daten,Was gibt es für Daten in der Religionswissenschaft?,,3. Einleitung: Was gibt es für Daten in der Religionswissenschaft?,3,ai-tablets.jpg,3-Religionswissenschaftliche-Daten,,,,[3],"---
 layout: post
 session: 3
 tags: [3]
 level: overview
----"
-,4,06.11,2023-11-06-4.md,,Messiah & Covenant,4. Messiah & Covenant,4,palm.jpg,4-Messiah-Covenant,,,[4],"---
+---",2025-11-15-3-slides.md,"---
+layout: reveal
+title: 'Was gibt es für Daten in der Religionswissenschaft?'
+author: 'Nathan Gibson'
+session: 3
+tags: [3,slides]
+category: slides
+image: ai-tablets.jpg
+parallaxBackgroundImage: 'assets/img/ai-tablets.jpg'
+---
+","# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Was gibt es für Daten in der Religionswissenschaft?
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Übungen mit Text- und Spracherkennung","---
+layout: reveal
+title: 'Was gibt es für Daten in der Religionswissenschaft?'
+author: 'Nathan Gibson'
+session: 3
+tags: [3,slides]
+category: slides
+image: ai-tablets.jpg
+parallaxBackgroundImage: 'assets/img/ai-tablets.jpg'
+---
+# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Was gibt es für Daten in der Religionswissenschaft?
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Übungen mit Text- und Spracherkennung"
+,4,15.11,12:15-13:45,2025-11-15-4.md,Machinelles Lernen,Übung Text- und Spracherkennung,Übungen mit Text- und Spracherkennung,,4. Machinelles Lernen: Übungen mit Text- und Spracherkennung,4,ox-bodl-laud-or-258-fol-10b.jpg,4-Übung-Text-und-Spracherkennung,,,,[4],"---
 layout: post
 session: 4
 tags: [4]
 level: overview
----"
-,5,13.11,2023-11-13-5.md,,Parting of the Ways,5. Parting of the Ways,5,stone.jpg,5-Parting-of-the-Ways,,,[5],"---
+---",2025-11-15-4-slides.md,"---
+layout: reveal
+title: 'Übungen mit Text- und Spracherkennung'
+author: 'Nathan Gibson'
+session: 4
+tags: [4,slides]
+category: slides
+image: ox-bodl-laud-or-258-fol-10b.jpg
+parallaxBackgroundImage: 'assets/img/ox-bodl-laud-or-258-fol-10b.jpg'
+---
+","# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Übungen mit Text- und Spracherkennung
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Was sind LLMs?","---
+layout: reveal
+title: 'Übungen mit Text- und Spracherkennung'
+author: 'Nathan Gibson'
+session: 4
+tags: [4,slides]
+category: slides
+image: ox-bodl-laud-or-258-fol-10b.jpg
+parallaxBackgroundImage: 'assets/img/ox-bodl-laud-or-258-fol-10b.jpg'
+---
+# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Übungen mit Text- und Spracherkennung
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Was sind LLMs?"
+,5,15.11,14:15-15:45,2025-11-15-5.md,Machinelles Lernen,LLMs,Was sind LLMs?,,5. Machinelles Lernen: Was sind LLMs?,5,gemini-scrabble.jpg,5-LLMs,,,,[5],"---
 layout: post
 session: 5
 tags: [5]
 level: overview
----"
-,6,20.11,2023-11-20-6.md,,Martyrs,6. Martyrs,6,fire.jpg,6-Martyrs,,,[6],"---
+---",2025-11-15-5-slides.md,"---
+layout: reveal
+title: 'Was sind LLMs?'
+author: 'Nathan Gibson'
+session: 5
+tags: [5,slides]
+category: slides
+image: gemini-scrabble.jpg
+parallaxBackgroundImage: 'assets/img/gemini-scrabble.jpg'
+---
+","# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Was sind LLMs?
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Übungen mit LLMs","---
+layout: reveal
+title: 'Was sind LLMs?'
+author: 'Nathan Gibson'
+session: 5
+tags: [5,slides]
+category: slides
+image: gemini-scrabble.jpg
+parallaxBackgroundImage: 'assets/img/gemini-scrabble.jpg'
+---
+# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Was sind LLMs?
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Übungen mit LLMs"
+,6,15.11,16:15-17:45,2025-11-15-6.md,Machinelles Lernen,Übung LLMs,Übungen mit LLMs,,6. Machinelles Lernen: Übungen mit LLMs,6,laptop-code.jpg,6-Übung-LLMs,,,,[6],"---
 layout: post
 session: 6
 tags: [6]
 level: overview
----"
-,7,27.11,2023-11-27-7.md,,East & West,7. East & West,7,pebble-beach.jpg,7-East-West,,,[7],"---
+---",2025-11-15-6-slides.md,"---
+layout: reveal
+title: 'Übungen mit LLMs'
+author: 'Nathan Gibson'
+session: 6
+tags: [6,slides]
+category: slides
+image: laptop-code.jpg
+parallaxBackgroundImage: 'assets/img/laptop-code.jpg'
+---
+","# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Übungen mit LLMs
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie sollen unterschiedliche Datentypen und -strukturen berücksichtigt werden?","---
+layout: reveal
+title: 'Übungen mit LLMs'
+author: 'Nathan Gibson'
+session: 6
+tags: [6,slides]
+category: slides
+image: laptop-code.jpg
+parallaxBackgroundImage: 'assets/img/laptop-code.jpg'
+---
+# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Übungen mit LLMs
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie sollen unterschiedliche Datentypen und -strukturen berücksichtigt werden?"
+,7,05.12,14:15-15:45,2025-12-05-7.md,Daten,Datentypen,Wie sollen unterschiedliche Datentypen und -strukturen berücksichtigt werden?,,7. Daten: Wie sollen unterschiedliche Datentypen und -strukturen berücksichtigt werden?,7,stickies.jpg,7-Datentypen,,,,[7],"---
 layout: post
 session: 7
 tags: [7]
 level: overview
----"
-,8,04.12,2023-12-04-8.md,,Rabbis,8. Rabbis,8,tallit.jpg,8-Rabbis,,,[8],"---
+---",2025-12-05-7-slides.md,"---
+layout: reveal
+title: 'Wie sollen unterschiedliche Datentypen und -strukturen berücksichtigt werden?'
+author: 'Nathan Gibson'
+session: 7
+tags: [7,slides]
+category: slides
+image: stickies.jpg
+parallaxBackgroundImage: 'assets/img/stickies.jpg'
+---
+","# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Wie sollen unterschiedliche Datentypen und -strukturen berücksichtigt werden?
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie können gängige Systeme für religionswissenschaftliche Daten fein abgestimmt werden?","---
+layout: reveal
+title: 'Wie sollen unterschiedliche Datentypen und -strukturen berücksichtigt werden?'
+author: 'Nathan Gibson'
+session: 7
+tags: [7,slides]
+category: slides
+image: stickies.jpg
+parallaxBackgroundImage: 'assets/img/stickies.jpg'
+---
+# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Wie sollen unterschiedliche Datentypen und -strukturen berücksichtigt werden?
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie können gängige Systeme für religionswissenschaftliche Daten fein abgestimmt werden?"
+,8,05.12,16:15-17:45,2025-12-05-8.md,Daten,Feinabstimmung,Wie können gängige Systeme für religionswissenschaftliche Daten fein abgestimmt werden?,,8. Daten: Wie können gängige Systeme für religionswissenschaftliche Daten fein abgestimmt werden?,8,synagogue-scroll.jpg,8-Feinabstimmung,,,,[8],"---
 layout: post
 session: 8
 tags: [8]
 level: overview
----"
-,9,11.12,2023-12-11-9.md,,A New Prophet,9. A New Prophet,9,crescent-moon.jpg,9-A-New-Prophet,,,[9],"---
+---",2025-12-05-8-slides.md,"---
+layout: reveal
+title: 'Wie können gängige Systeme für religionswissenschaftliche Daten fein abgestimmt werden?'
+author: 'Nathan Gibson'
+session: 8
+tags: [8,slides]
+category: slides
+image: synagogue-scroll.jpg
+parallaxBackgroundImage: 'assets/img/synagogue-scroll.jpg'
+---
+","# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Wie können gängige Systeme für religionswissenschaftliche Daten fein abgestimmt werden?
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil I)","---
+layout: reveal
+title: 'Wie können gängige Systeme für religionswissenschaftliche Daten fein abgestimmt werden?'
+author: 'Nathan Gibson'
+session: 8
+tags: [8,slides]
+category: slides
+image: synagogue-scroll.jpg
+parallaxBackgroundImage: 'assets/img/synagogue-scroll.jpg'
+---
+# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Wie können gängige Systeme für religionswissenschaftliche Daten fein abgestimmt werden?
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil I)"
+,9,06.12,10:15-11:45,2025-12-06-9.md,Programmieren,Übung Datenreinigung und -analyse I,Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil I),,9. Programmieren: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil I),9,code-memo.jpg,9-Übung-Datenreinigung-und-analyse-I,,,,[9],"---
 layout: post
 session: 9
 tags: [9]
 level: overview
----"
-,10,18.12,2023-12-18-10.md,,A New Community,10. A New Community,10,dome-of-the-rock.jpg,10-A-New-Community,,,[10],"---
+---",2025-12-06-9-slides.md,"---
+layout: reveal
+title: 'Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil I)'
+author: 'Nathan Gibson'
+session: 9
+tags: [9,slides]
+category: slides
+image: code-memo.jpg
+parallaxBackgroundImage: 'assets/img/code-memo.jpg'
+---
+","# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil I)
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil II)","---
+layout: reveal
+title: 'Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil I)'
+author: 'Nathan Gibson'
+session: 9
+tags: [9,slides]
+category: slides
+image: code-memo.jpg
+parallaxBackgroundImage: 'assets/img/code-memo.jpg'
+---
+# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil I)
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil II)"
+,10,06.12,12:15-13:45,2025-12-06-10.md,Programmieren,Übung Datenreinigung und -analyse II,Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil II),,10. Programmieren: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil II),10,ai-keyboard.jpg,10-Übung-Datenreinigung-und-analyse-II,,,,[10],"---
 layout: post
 session: 10
 tags: [10]
 level: overview
----"
-,11,08.01,2024-01-08-11.md,,Rules & Rulers,11. Rules & Rulers,11,palace-ceiling.jpg,11-Rules-Rulers,,,[11],"---
+---",2025-12-06-10-slides.md,"---
+layout: reveal
+title: 'Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil II)'
+author: 'Nathan Gibson'
+session: 10
+tags: [10,slides]
+category: slides
+image: ai-keyboard.jpg
+parallaxBackgroundImage: 'assets/img/ai-keyboard.jpg'
+---
+","# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil II)
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil I)","---
+layout: reveal
+title: 'Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil II)'
+author: 'Nathan Gibson'
+session: 10
+tags: [10,slides]
+category: slides
+image: ai-keyboard.jpg
+parallaxBackgroundImage: 'assets/img/ai-keyboard.jpg'
+---
+# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil II)
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil I)"
+,11,06.12,14:15-15:45,2025-12-06-11.md,Programmieren,Übung Datenvisualisierung I,Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil I),,11. Programmieren: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil I),11,data-visualization.jpg,11-Übung-Datenvisualisierung-I,,,,[11],"---
 layout: post
 session: 11
 tags: [11]
 level: overview
----"
-,12,15.01,2024-01-15-12.md,,Tradition,12. Tradition,12,leaf.jpg,12-Tradition,,,[12],"---
+---",2025-12-06-11-slides.md,"---
+layout: reveal
+title: 'Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil I)'
+author: 'Nathan Gibson'
+session: 11
+tags: [11,slides]
+category: slides
+image: data-visualization.jpg
+parallaxBackgroundImage: 'assets/img/data-visualization.jpg'
+---
+","# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil I)
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil II)","---
+layout: reveal
+title: 'Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil I)'
+author: 'Nathan Gibson'
+session: 11
+tags: [11,slides]
+category: slides
+image: data-visualization.jpg
+parallaxBackgroundImage: 'assets/img/data-visualization.jpg'
+---
+# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil I)
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil II)"
+,12,06.12,16:15-17:45,2025-12-06-12.md,Programmieren,Übung Datenvisualisierung II,Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil II),,12. Programmieren: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil II),12,ai-chip.jpg,12-Übung-Datenvisualisierung-II,,,,[12],"---
 layout: post
 session: 12
 tags: [12]
 level: overview
----"
-,13,22.01,2024-01-22-13.md,,A Common Language,13. A Common Language,13,ox-bodl-laud-or-258-fol-10b.jpg,13-A-Common-Language,,,[13],"---
-layout: post
-session: 13
-tags: [13]
-level: overview
----"
-,14,29.01,2024-01-29-14.md,,Converted Conquerors,14. Converted Conquerors,14,horse.jpg,14-Converted-Conquerors,,,[14],"---
-layout: post
-session: 14
-tags: [14]
-level: overview
----"
-,15,05.02,2024-02-05-15.md,,Perceptions,15. Perceptions,15,carpet_ed.jpg,15-Perceptions,,,[15],"---
-layout: post
-session: 15
-tags: [15]
-level: overview
----"
+---",2025-12-06-12-slides.md,"---
+layout: reveal
+title: 'Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil II)'
+author: 'Nathan Gibson'
+session: 12
+tags: [12,slides]
+category: slides
+image: ai-chip.jpg
+parallaxBackgroundImage: 'assets/img/ai-chip.jpg'
+---
+","# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil II)
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+","---
+layout: reveal
+title: 'Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil II)'
+author: 'Nathan Gibson'
+session: 12
+tags: [12,slides]
+category: slides
+image: ai-chip.jpg
+parallaxBackgroundImage: 'assets/img/ai-chip.jpg'
+---
+# Einführung in die 
+### Religionswissenschaft
+{: .r-fit-text}
+
+### Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil II)
+
+Wintersemester 2025/2026
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+"
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
