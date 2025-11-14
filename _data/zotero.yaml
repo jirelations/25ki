@@ -57,6 +57,38 @@ references:
   title-short: The AI Con
   type: book
 
+- id: brownRelationOrientedAIWhy2023
+  accessed:
+    - year: 2025
+      month: 11
+      day: 13
+  author:
+    - family: Brown
+      given: Michelle Lee
+    - family: Whaanga
+      given: Hēmi
+    - family: Lewis
+      given: Jason Edward
+  citation-key: brownRelationOrientedAIWhy2023
+  collection-title: Debates in the Digital Humanities
+  container-title: Debates in the Digital Humanities 2023
+  editor:
+    - family: Gold
+      given: Matthew K.
+    - family: Klein
+      given: Lauren F.
+  event-place: Minneapolis
+  issued:
+    - year: 2023
+  publisher: University of Minnesota Press
+  publisher-place: Minneapolis
+  title: >-
+    Relation-Oriented AI: Why Indigenous Protocols Matter for the Digital
+    Humanities
+  type: chapter
+  URL: >-
+    https://dhdebates.gc.cuny.edu/read/debates-in-the-digital-humanities-2023/section/98dc1c8f-8583-4428-ac84-17ff072bdcad
+
 - id: cossioComprehensiveTaxonomyHallucinations2025
   abstract: >-
     Large language models (LLMs) have revolutionized natural language
@@ -250,6 +282,97 @@ references:
   URL: >-
     https://uclpress.co.uk/book/navigating-artificial-intelligence-for-cultural-heritage-organisations/
 
+- id: prohlReligionizationWorldObfuscation2025
+  abstract: >-
+    This article examines how museums and exhibitions present the use and impact
+    of AI and robotics, focusing on the narratives they construct around
+    technological promise and risk. Case studies include the Zukunftsmuseum in
+    Nuremberg, the Futurium in Berlin, and the traveling exhibition "Hello
+    Robot". Additional insights are derived from institutions such as the Ars
+    Electronica Center (Linz), the Deutsches Museum (Bonn/Munich), and the
+    Miraikan in Tokyo. Based on discourse analysis and participant observation,
+    the study draws on approaches from Material Religion and Cultural Sociology.
+    It explores curatorial agendas, artifact selection, and modes of
+    presentation, identifying glorification, mystification, and aestheticization
+    as key features in how AI is exhibited. These strategies contribute, as will
+    be shown, to perceiving AI as a formation analogous to religion while
+    simultaneously obscuring critical dimensions. The conclusion highlights how,
+    by blending technological reality with speculative fiction, such exhibitions
+    risk promoting a selctive, obfuscating vision of the future.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 13
+  author:
+    - family: Prohl
+      given: Inken
+  citation-key: prohlReligionizationWorldObfuscation2025
+  container-title: Religion
+  DOI: 10.1080/0048721X.2025.2502292
+  ISSN: 0048-721X
+  issue: '3'
+  issued:
+    - year: 2025
+      month: 7
+      day: 3
+  page: 610–637
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: >-
+    Religionization and world obfuscation – the display of computers, robots,
+    and big data-based applications in museums
+  type: article-journal
+  URL: https://doi.org/10.1080/0048721X.2025.2502292
+  volume: '55'
+
+- id: rahmeReligiousStudiesApproaches2025
+  abstract: >-
+    This article investigates the intersections of religion and artificial
+    intelligence (AI), exploring how AI evokes religious narratives, shapes
+    religious practices, and generates formations analogous to religion. The
+    concept of formations analogous to religion is developed as a critical
+    framework for understanding AI’s religious and cultural implications. It is
+    argued that AI’s cultural significance is often mediated through religious
+    language and symbolism. The article provides an overview of current research
+    and outlines working definitions of AI, religion, and formations analogous
+    to religion. The contributions to this thematic issue are introduced by
+    identifying their key points of convergence: the mystification of AI in
+    narratives and discourses, which can obscure ethical issues and reinforce
+    power imbalances; the integration of AI into religious practices, which can
+    lead to novel formations analogous to religion; and the ‘re-enchantment’ of
+    the digitally suffused world via AI’s perceived autonomy and agency, which
+    creates new modes of human heteronomy.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 13
+  author:
+    - family: Rähme
+      given: Boris
+    - family: Prohl
+      given: Inken
+  citation-key: rahmeReligiousStudiesApproaches2025
+  container-title: Religion
+  DOI: 10.1080/0048721X.2025.2506893
+  ISSN: 0048-721X
+  issue: '3'
+  issued:
+    - year: 2025
+      month: 7
+      day: 3
+  page: 573–595
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: >-
+    Religious studies approaches to the intersection of artificial intelligence
+    and religion: formations analogous to religion
+  title-short: >-
+    Religious studies approaches to the intersection of artificial intelligence
+    and religion
+  type: article-journal
+  URL: https://doi.org/10.1080/0048721X.2025.2506893
+  volume: '55'
+
 - id: reedLLMCodegenHeros2025
   abstract: >-
     A comprehensive guide detailing the evolution of using AI-assisted software
@@ -295,6 +418,36 @@ references:
   title: My LLM codegen workflow atm
   type: webpage
   URL: https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/
+
+- id: risamWhatPassesHuman2018
+  abstract: Start reading this text on Debates in the DH Manifold
+  accessed:
+    - year: 2025
+      month: 11
+      day: 13
+  author:
+    - family: Risam
+      given: Roopika
+  citation-key: risamWhatPassesHuman2018
+  collection-title: Debates in the Digital Humanities
+  container-title: Bodies of Information Intersectional Feminism and Digital Humanities
+  editor:
+    - family: Losh
+      given: Elizabeth
+    - family: Wernimont
+      given: Jacqueline
+  event-place: Minneapolis
+  issued:
+    - year: 2018
+  language: en-US
+  publisher: University of Minnesota Press
+  publisher-place: Minneapolis
+  title: >-
+    What Passes for Human? Undermining the Universal Subject in Digital
+    Humanities Praxis
+  type: chapter
+  URL: >-
+    https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/34d51cdb-2a89-4e4b-9762-bf6461cf0bb7#ch03
 
 - id: selokarBasicAdvancedRAG2024
   abstract: >-
@@ -361,6 +514,52 @@ references:
   title: A Conversation with the Authors of The AI Con @ SJSU
   type: motion_picture
   URL: https://www.youtube.com/watch?v=1FcD3-FRWD4
+
+- id: songCulturalTheologySocial2025
+  abstract: >-
+    Developing ethical artificial intelligence has become crucial, especially as
+    advancements in machine learning lead to the deployment of AI across
+    society. Drawing on religious and cultural values exposes lacunae in current
+    approaches to robotics and AI, and creates opportunities to design AI for
+    human flourishing. The Korean value of jeong (empathy, solidarity, and
+    mutual obligation) offers an example of such cultural theology for AI
+    development. Prioritizing jeong in AI technologies could improve human-human
+    and, theoretically, human-robot interactions. The conjunction of
+    theological, religious studies, and social AI approaches shows that ethical
+    AI requires more than western ethics. If AI incorporates human-human and
+    human-AI jeong, the challenges of surveillance, algorithmic bias, and even
+    hypothetical superintelligence become more manageable. It is the ability of
+    religious studies to reveal and interrogate the contributions of global
+    cultures that makes scholars vital in twenty-first century education,
+    policymaking, and the technological marketplace.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 13
+  author:
+    - family: Song
+      given: Yong Sup
+    - family: Geraci
+      given: Robert M.
+  citation-key: songCulturalTheologySocial2025
+  container-title: Religion
+  DOI: 10.1080/0048721X.2025.2502294
+  ISSN: 0048-721X
+  issue: '3'
+  issued:
+    - year: 2025
+      month: 7
+      day: 3
+  page: 715–737
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: >-
+    Cultural theology and social robotics: the intersection of religion and
+    science in ethical AI
+  title-short: Cultural theology and social robotics
+  type: article-journal
+  URL: https://doi.org/10.1080/0048721X.2025.2502294
+  volume: '55'
 
 - id: TextualDataProcessing
   abstract: >-
