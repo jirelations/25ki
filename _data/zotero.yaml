@@ -449,6 +449,33 @@ references:
   URL: >-
     https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/34d51cdb-2a89-4e4b-9762-bf6461cf0bb7#ch03
 
+- id: russellArtificialIntelligenceModern2022
+  author:
+    - family: Russell
+      given: Stuart J. (Verfasser)
+    - family: Norvig
+      given: Peter (Verfasser)
+    - family: Chang
+      given: Ming-wei (Verfasser)
+  citation-key: russellArtificialIntelligenceModern2022
+  edition: Fourth edition, global edition
+  event-place: München
+  ISBN: 978-1-292-40117-1
+  issued:
+    date-parts:
+      - - '2022'
+  number-of-pages: 1 Online-Ressource (1166 Seiten)
+  original-date:
+    - year: 2022
+  publisher: Pearson
+  publisher-place: München
+  source: COinS
+  title: 'Artificial intelligence : a modern approach'
+  title-short: Artificial intelligence
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Felibrary.pearson.de%2Fbook%2F99.150005%2F9781292401171
+
 - id: selokarBasicAdvancedRAG2024
   abstract: >-
     Welcome to “Basic to Advanced RAG using LlamaIndex ~1” the first installment

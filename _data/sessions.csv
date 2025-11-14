@@ -1,5 +1,5 @@
 ﻿blank,session,date,time,filename,unit,topic,long-topic,concepts,title,pad-slug,image,zotero-tag,zotero-readings,objective,Leitfrage,tags,contents,slide-filename,slide-frontmatter,slide-body1,slide-body2,slide-content
-,1,14.11,14:15-15:45,2025-11-14-1.md,Einleitung,Vorstellung,"Vorstellung, Ziele, Was ist KI?",,"1. Einleitung: Vorstellung, Ziele, Was ist KI?",1,robot-hand.jpg,1-Vorstellung,,,,[1],"---
+,1,14.11,14:15-15:45,2025-11-14-1.md,Einleitung,Vorstellung,"Vorstellung, Ziele, Was ist KI?",,"1. Einleitung: Vorstellung, Ziele, Was ist KI?",1,robot-hand.jpg,1-Vorstellung,,Arten von KI unterscheiden.,,[1],"---
 layout: post
 session: 1
 tags: [1]
@@ -40,7 +40,7 @@ objective
 
 ## Heutiges Lernziel
 
-","
+Arten von KI unterscheiden.","
 
 ## Lektüre
 
@@ -87,7 +87,7 @@ objective
 
 ## Heutiges Lernziel
 
-
+Arten von KI unterscheiden.
 
 ## Lektüre
 
@@ -99,7 +99,7 @@ objective
 ## Vorschau
 
 KI aus ethischer Sicht"
-,2,14.11,16:15-17:45,2025-11-14-2.md,Einleitung,Ethik,KI aus ethischer Sicht,,2. Einleitung: KI aus ethischer Sicht,2,robot-bench.jpg,2-Ethik,,,,[2],"---
+,2,14.11,16:15-17:45,2025-11-14-2.md,Einleitung,Ethik,KI aus ethischer Sicht,,2. Einleitung: KI aus ethischer Sicht,2,robot-bench.jpg,2-Ethik,,Die ethischen Aspekte eines KI-Einsatzes abwägen. ,,[2],"---
 layout: post
 session: 2
 tags: [2]
@@ -125,7 +125,7 @@ Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Arten von KI unterscheiden.
 
 ## 📈 Rückblick: 
 
@@ -140,7 +140,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-","
+Die ethischen Aspekte eines KI-Einsatzes abwägen. ","
 
 ## Lektüre
 
@@ -172,7 +172,7 @@ Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Arten von KI unterscheiden.
 
 ## 📈 Rückblick: 
 
@@ -187,7 +187,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-
+Die ethischen Aspekte eines KI-Einsatzes abwägen. 
 
 ## Lektüre
 
@@ -199,7 +199,7 @@ Prof. Dr. Nathan Gibson
 ## Vorschau
 
 Was gibt es für Daten in der Religionswissenschaft?"
-,3,15.11,10:15-11:45,2025-11-15-3.md,Einleitung,Religionswissenschaftliche Daten,Was gibt es für Daten in der Religionswissenschaft?,,3. Einleitung: Was gibt es für Daten in der Religionswissenschaft?,3,ai-tablets.jpg,3-Religionswissenschaftliche-Daten,,,,[3],"---
+,3,15.11,10:15-11:45,2025-11-15-3.md,Einleitung,Religionswissenschaftliche Daten,Was gibt es für Daten in der Religionswissenschaft?,,3. Einleitung: Was gibt es für Daten in der Religionswissenschaft?,3,ai-tablets.jpg,3-Religionswissenschaftliche-Daten,,Das breite Spektrum religionswissenschaftlicher Daten erfassen.,,[3],"---
 layout: post
 session: 3
 tags: [3]
@@ -225,7 +225,7 @@ Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Die ethischen Aspekte eines KI-Einsatzes abwägen. 
 
 ## 📈 Rückblick: 
 
@@ -240,7 +240,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-","
+Das breite Spektrum religionswissenschaftlicher Daten erfassen.","
 
 ## Lektüre
 
@@ -272,7 +272,7 @@ Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Die ethischen Aspekte eines KI-Einsatzes abwägen. 
 
 ## 📈 Rückblick: 
 
@@ -287,7 +287,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-
+Das breite Spektrum religionswissenschaftlicher Daten erfassen.
 
 ## Lektüre
 
@@ -299,7 +299,7 @@ Prof. Dr. Nathan Gibson
 ## Vorschau
 
 Übungen mit Text- und Spracherkennung"
-,4,15.11,12:15-13:45,2025-11-15-4.md,Machinelles Lernen,Übung Text- und Spracherkennung,Übungen mit Text- und Spracherkennung,,4. Machinelles Lernen: Übungen mit Text- und Spracherkennung,4,ox-bodl-laud-or-258-fol-10b.jpg,4-Übung-Text-und-Spracherkennung,,,,[4],"---
+,4,15.11,12:15-13:45,2025-11-15-4.md,Maschinelles Lernen,Übung Text- und Spracherkennung,Übungen mit Text- und Spracherkennung,,4. Maschinelles Lernen: Übungen mit Text- und Spracherkennung,4,ox-bodl-laud-or-258-fol-10b.jpg,4-Übung-Text-und-Spracherkennung,,Erfahrungen mit maschinellem Lernen sammeln.,,[4],"---
 layout: post
 session: 4
 tags: [4]
@@ -325,7 +325,7 @@ Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Das breite Spektrum religionswissenschaftlicher Daten erfassen.
 
 ## 📈 Rückblick: 
 
@@ -340,7 +340,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-","
+Erfahrungen mit maschinellem Lernen sammeln.","
 
 ## Lektüre
 
@@ -372,7 +372,7 @@ Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Das breite Spektrum religionswissenschaftlicher Daten erfassen.
 
 ## 📈 Rückblick: 
 
@@ -387,7 +387,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-
+Erfahrungen mit maschinellem Lernen sammeln.
 
 ## Lektüre
 
@@ -399,7 +399,7 @@ Prof. Dr. Nathan Gibson
 ## Vorschau
 
 Was sind LLMs?"
-,5,15.11,14:15-15:45,2025-11-15-5.md,Machinelles Lernen,LLMs,Was sind LLMs?,,5. Machinelles Lernen: Was sind LLMs?,5,gemini-scrabble.jpg,5-LLMs,,,,[5],"---
+,5,15.11,14:15-15:45,2025-11-15-5.md,Maschinelles Lernen,LLMs,Was sind LLMs?,,5. Maschinelles Lernen: Was sind LLMs?,5,gemini-scrabble.jpg,5-LLMs,,Die Grundcharakteristika von Large Language Models skizzieren.,,[5],"---
 layout: post
 session: 5
 tags: [5]
@@ -425,7 +425,7 @@ Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Erfahrungen mit maschinellem Lernen sammeln.
 
 ## 📈 Rückblick: 
 
@@ -440,7 +440,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-","
+Die Grundcharakteristika von Large Language Models skizzieren.","
 
 ## Lektüre
 
@@ -472,7 +472,7 @@ Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Erfahrungen mit maschinellem Lernen sammeln.
 
 ## 📈 Rückblick: 
 
@@ -487,7 +487,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-
+Die Grundcharakteristika von Large Language Models skizzieren.
 
 ## Lektüre
 
@@ -499,7 +499,7 @@ Prof. Dr. Nathan Gibson
 ## Vorschau
 
 Übungen mit LLMs"
-,6,15.11,16:15-17:45,2025-11-15-6.md,Machinelles Lernen,Übung LLMs,Übungen mit LLMs,,6. Machinelles Lernen: Übungen mit LLMs,6,laptop-code.jpg,6-Übung-LLMs,,,,[6],"---
+,6,15.11,16:15-17:45,2025-11-15-6.md,Maschinelles Lernen,Übung LLMs,Übungen mit LLMs,,6. Maschinelles Lernen: Übungen mit LLMs,6,laptop-code.jpg,6-Übung-LLMs,,Erfahrungen mit LLMs sammeln.,,[6],"---
 layout: post
 session: 6
 tags: [6]
@@ -525,7 +525,7 @@ Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Die Grundcharakteristika von Large Language Models skizzieren.
 
 ## 📈 Rückblick: 
 
@@ -540,7 +540,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-","
+Erfahrungen mit LLMs sammeln.","
 
 ## Lektüre
 
@@ -572,7 +572,7 @@ Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Die Grundcharakteristika von Large Language Models skizzieren.
 
 ## 📈 Rückblick: 
 
@@ -587,7 +587,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-
+Erfahrungen mit LLMs sammeln.
 
 ## Lektüre
 
@@ -599,7 +599,7 @@ Prof. Dr. Nathan Gibson
 ## Vorschau
 
 Wie sollen unterschiedliche Datentypen und -strukturen berücksichtigt werden?"
-,7,05.12,14:15-15:45,2025-12-05-7.md,Daten,Datentypen,Wie sollen unterschiedliche Datentypen und -strukturen berücksichtigt werden?,,7. Daten: Wie sollen unterschiedliche Datentypen und -strukturen berücksichtigt werden?,7,stickies.jpg,7-Datentypen,,,,[7],"---
+,7,05.12,14:15-15:45,2025-12-05-7.md,Daten,Datentypen,Wie sollen unterschiedliche Datentypen und -strukturen berücksichtigt werden?,,7. Daten: Wie sollen unterschiedliche Datentypen und -strukturen berücksichtigt werden?,7,stickies.jpg,7-Datentypen,,Datentypen und Datenstrukturen grundlegend verstehen.,,[7],"---
 layout: post
 session: 7
 tags: [7]
@@ -625,7 +625,7 @@ Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Erfahrungen mit LLMs sammeln.
 
 ## 📈 Rückblick: 
 
@@ -640,7 +640,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-","
+Datentypen und Datenstrukturen grundlegend verstehen.","
 
 ## Lektüre
 
@@ -672,7 +672,7 @@ Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Erfahrungen mit LLMs sammeln.
 
 ## 📈 Rückblick: 
 
@@ -687,7 +687,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-
+Datentypen und Datenstrukturen grundlegend verstehen.
 
 ## Lektüre
 
@@ -699,7 +699,7 @@ Prof. Dr. Nathan Gibson
 ## Vorschau
 
 Wie können gängige Systeme für religionswissenschaftliche Daten fein abgestimmt werden?"
-,8,05.12,16:15-17:45,2025-12-05-8.md,Daten,Feinabstimmung,Wie können gängige Systeme für religionswissenschaftliche Daten fein abgestimmt werden?,,8. Daten: Wie können gängige Systeme für religionswissenschaftliche Daten fein abgestimmt werden?,8,sound-board.jpg,8-Feinabstimmung,,,,[8],"---
+,8,05.12,16:15-17:45,2025-12-05-8.md,Daten,Feinabstimmung,Wie können gängige Systeme für religionswissenschaftliche Daten fein abgestimmt werden?,,8. Daten: Wie können gängige Systeme für religionswissenschaftliche Daten fein abgestimmt werden?,8,sound-board.jpg,8-Feinabstimmung,,Die Prozesse der Anpassung und der Feinabstimmung von Modellen erfassen.,,[8],"---
 layout: post
 session: 8
 tags: [8]
@@ -725,7 +725,7 @@ Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Datentypen und Datenstrukturen grundlegend verstehen.
 
 ## 📈 Rückblick: 
 
@@ -740,7 +740,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-","
+Die Prozesse der Anpassung und der Feinabstimmung von Modellen erfassen.","
 
 ## Lektüre
 
@@ -751,7 +751,7 @@ Prof. Dr. Nathan Gibson
 
 ## Vorschau
 
-Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil I)","---
+Begriffe: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden?","---
 layout: reveal
 title: 'Wie können gängige Systeme für religionswissenschaftliche Daten fein abgestimmt werden?'
 author: 'Nathan Gibson'
@@ -772,7 +772,7 @@ Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Datentypen und Datenstrukturen grundlegend verstehen.
 
 ## 📈 Rückblick: 
 
@@ -787,7 +787,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-
+Die Prozesse der Anpassung und der Feinabstimmung von Modellen erfassen.
 
 ## Lektüre
 
@@ -798,15 +798,15 @@ Prof. Dr. Nathan Gibson
 
 ## Vorschau
 
-Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil I)"
-,9,06.12,10:15-11:45,2025-12-06-9.md,Programmieren,Übung Datenreinigung und -analyse I,Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil I),,9. Programmieren: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil I),9,code-memo.jpg,9-Übung-Datenreinigung-und-analyse-I,,,,[9],"---
+Begriffe: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden?"
+,9,06.12,10:15-11:45,2025-12-06-9.md,Programmieren,Begriffe Datenreinigung und -analyse I,Begriffe: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden?,,9. Programmieren: Begriffe: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden?,9,code-memo.jpg,9-Begriffe-Datenreinigung-und-analyse-I,,Best Practices des Programmierens mit LLMs bezüglich Datenreinigung und Datenanalyse erfassen.,,[9],"---
 layout: post
 session: 9
 tags: [9]
 level: overview
 ---",2025-12-06-9-slides.md,"---
 layout: reveal
-title: 'Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil I)'
+title: 'Begriffe: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden?'
 author: 'Nathan Gibson'
 session: 9
 tags: [9,slides]
@@ -818,14 +818,14 @@ parallaxBackgroundImage: 'assets/img/code-memo.jpg'
 ### Religionswissenschaft
 {: .r-fit-text}
 
-### Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil I)
+### Begriffe: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden?
 
 Wintersemester 2025/2026
 Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Die Prozesse der Anpassung und der Feinabstimmung von Modellen erfassen.
 
 ## 📈 Rückblick: 
 
@@ -840,7 +840,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-","
+Best Practices des Programmierens mit LLMs bezüglich Datenreinigung und Datenanalyse erfassen.","
 
 ## Lektüre
 
@@ -851,9 +851,9 @@ Prof. Dr. Nathan Gibson
 
 ## Vorschau
 
-Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil II)","---
+Übungen: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden?","---
 layout: reveal
-title: 'Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil I)'
+title: 'Begriffe: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden?'
 author: 'Nathan Gibson'
 session: 9
 tags: [9,slides]
@@ -865,14 +865,14 @@ parallaxBackgroundImage: 'assets/img/code-memo.jpg'
 ### Religionswissenschaft
 {: .r-fit-text}
 
-### Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil I)
+### Begriffe: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden?
 
 Wintersemester 2025/2026
 Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Die Prozesse der Anpassung und der Feinabstimmung von Modellen erfassen.
 
 ## 📈 Rückblick: 
 
@@ -887,7 +887,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-
+Best Practices des Programmierens mit LLMs bezüglich Datenreinigung und Datenanalyse erfassen.
 
 ## Lektüre
 
@@ -898,15 +898,15 @@ Prof. Dr. Nathan Gibson
 
 ## Vorschau
 
-Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil II)"
-,10,06.12,12:15-13:45,2025-12-06-10.md,Programmieren,Übung Datenreinigung und -analyse II,Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil II),,10. Programmieren: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil II),10,ai-keyboard.jpg,10-Übung-Datenreinigung-und-analyse-II,,,,[10],"---
+Übungen: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden?"
+,10,06.12,12:15-13:45,2025-12-06-10.md,Programmieren,Übungen Datenreinigung und -analyse II,Übungen: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden?,,10. Programmieren: Übungen: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden?,10,ai-keyboard.jpg,10-Übungen-Datenreinigung-und-analyse-II,,Erfahrungen mit Datenreinigung und Datenanalyse sammeln.,,[10],"---
 layout: post
 session: 10
 tags: [10]
 level: overview
 ---",2025-12-06-10-slides.md,"---
 layout: reveal
-title: 'Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil II)'
+title: 'Übungen: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden?'
 author: 'Nathan Gibson'
 session: 10
 tags: [10,slides]
@@ -918,14 +918,14 @@ parallaxBackgroundImage: 'assets/img/ai-keyboard.jpg'
 ### Religionswissenschaft
 {: .r-fit-text}
 
-### Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil II)
+### Übungen: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden?
 
 Wintersemester 2025/2026
 Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Best Practices des Programmierens mit LLMs bezüglich Datenreinigung und Datenanalyse erfassen.
 
 ## 📈 Rückblick: 
 
@@ -940,7 +940,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-","
+Erfahrungen mit Datenreinigung und Datenanalyse sammeln.","
 
 ## Lektüre
 
@@ -951,9 +951,9 @@ Prof. Dr. Nathan Gibson
 
 ## Vorschau
 
-Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil I)","---
+Begriffe: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden?","---
 layout: reveal
-title: 'Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil II)'
+title: 'Übungen: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden?'
 author: 'Nathan Gibson'
 session: 10
 tags: [10,slides]
@@ -965,14 +965,14 @@ parallaxBackgroundImage: 'assets/img/ai-keyboard.jpg'
 ### Religionswissenschaft
 {: .r-fit-text}
 
-### Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden? (Teil II)
+### Übungen: Wie können LLMs für das Programmieren von Datenreinigung bzw. Datenanalyse eingesetzt werden?
 
 Wintersemester 2025/2026
 Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Best Practices des Programmierens mit LLMs bezüglich Datenreinigung und Datenanalyse erfassen.
 
 ## 📈 Rückblick: 
 
@@ -987,7 +987,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-
+Erfahrungen mit Datenreinigung und Datenanalyse sammeln.
 
 ## Lektüre
 
@@ -998,15 +998,15 @@ Prof. Dr. Nathan Gibson
 
 ## Vorschau
 
-Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil I)"
-,11,06.12,14:15-15:45,2025-12-06-11.md,Programmieren,Übung Datenvisualisierung I,Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil I),,11. Programmieren: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil I),11,data-visualization.jpg,11-Übung-Datenvisualisierung-I,,,,[11],"---
+Begriffe: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden?"
+,11,06.12,14:15-15:45,2025-12-06-11.md,Programmieren,Begriffe Datenvisualisierung I,Begriffe: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden?,,11. Programmieren: Begriffe: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden?,11,data-visualization.jpg,11-Begriffe-Datenvisualisierung-I,,Best Practices des Programmierens mit LLMs bezüglich Datenvisualisierung erfassen.,,[11],"---
 layout: post
 session: 11
 tags: [11]
 level: overview
 ---",2025-12-06-11-slides.md,"---
 layout: reveal
-title: 'Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil I)'
+title: 'Begriffe: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden?'
 author: 'Nathan Gibson'
 session: 11
 tags: [11,slides]
@@ -1018,14 +1018,14 @@ parallaxBackgroundImage: 'assets/img/data-visualization.jpg'
 ### Religionswissenschaft
 {: .r-fit-text}
 
-### Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil I)
+### Begriffe: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden?
 
 Wintersemester 2025/2026
 Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Erfahrungen mit Datenreinigung und Datenanalyse sammeln.
 
 ## 📈 Rückblick: 
 
@@ -1040,7 +1040,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-","
+Best Practices des Programmierens mit LLMs bezüglich Datenvisualisierung erfassen.","
 
 ## Lektüre
 
@@ -1051,9 +1051,9 @@ Prof. Dr. Nathan Gibson
 
 ## Vorschau
 
-Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil II)","---
+Übungen: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden?","---
 layout: reveal
-title: 'Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil I)'
+title: 'Begriffe: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden?'
 author: 'Nathan Gibson'
 session: 11
 tags: [11,slides]
@@ -1065,14 +1065,14 @@ parallaxBackgroundImage: 'assets/img/data-visualization.jpg'
 ### Religionswissenschaft
 {: .r-fit-text}
 
-### Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil I)
+### Begriffe: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden?
 
 Wintersemester 2025/2026
 Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Erfahrungen mit Datenreinigung und Datenanalyse sammeln.
 
 ## 📈 Rückblick: 
 
@@ -1087,7 +1087,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-
+Best Practices des Programmierens mit LLMs bezüglich Datenvisualisierung erfassen.
 
 ## Lektüre
 
@@ -1098,15 +1098,15 @@ Prof. Dr. Nathan Gibson
 
 ## Vorschau
 
-Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil II)"
-,12,06.12,16:15-17:45,2025-12-06-12.md,Programmieren,Übung Datenvisualisierung II,Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil II),,12. Programmieren: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil II),12,ai-chip.jpg,12-Übung-Datenvisualisierung-II,,,,[12],"---
+Übungen: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden?"
+,12,06.12,16:15-17:45,2025-12-06-12.md,Programmieren,Übungen Datenvisualisierung II,Übungen: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden?,,12. Programmieren: Übungen: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden?,12,ai-chip.jpg,12-Übungen-Datenvisualisierung-II,,Erfahrungen mit Datenvisualisierung sammeln.,,[12],"---
 layout: post
 session: 12
 tags: [12]
 level: overview
 ---",2025-12-06-12-slides.md,"---
 layout: reveal
-title: 'Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil II)'
+title: 'Übungen: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden?'
 author: 'Nathan Gibson'
 session: 12
 tags: [12,slides]
@@ -1118,14 +1118,14 @@ parallaxBackgroundImage: 'assets/img/ai-chip.jpg'
 ### Religionswissenschaft
 {: .r-fit-text}
 
-### Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil II)
+### Übungen: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden?
 
 Wintersemester 2025/2026
 Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Best Practices des Programmierens mit LLMs bezüglich Datenvisualisierung erfassen.
 
 ## 📈 Rückblick: 
 
@@ -1140,7 +1140,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-","
+Erfahrungen mit Datenvisualisierung sammeln.","
 
 ## Lektüre
 
@@ -1153,7 +1153,7 @@ Prof. Dr. Nathan Gibson
 
 ","---
 layout: reveal
-title: 'Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil II)'
+title: 'Übungen: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden?'
 author: 'Nathan Gibson'
 session: 12
 tags: [12,slides]
@@ -1165,14 +1165,14 @@ parallaxBackgroundImage: 'assets/img/ai-chip.jpg'
 ### Religionswissenschaft
 {: .r-fit-text}
 
-### Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden? (Teil II)
+### Übungen: Wie können LLMs für das Programmieren von Datenvisualisierung eingesetzt werden?
 
 Wintersemester 2025/2026
 Prof. Dr. Nathan Gibson
 
 ## 📈 Rückblick: Lernziel
 
-
+Best Practices des Programmierens mit LLMs bezüglich Datenvisualisierung erfassen.
 
 ## 📈 Rückblick: 
 
@@ -1187,7 +1187,7 @@ Prof. Dr. Nathan Gibson
 
 ## Heutiges Lernziel
 
-
+Erfahrungen mit Datenvisualisierung sammeln.
 
 ## Lektüre
 
