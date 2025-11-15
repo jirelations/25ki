@@ -1,5 +1,24 @@
 ---
 references:
+- id: 3blue1brownLargeLanguageModels2024
+  abstract: "A light intro to LLMs, chatbots, pretraining, and transformers.\nDig deeper here: \_\_\_•\_Neural\_networks\_\_\nTechnical details as a talk: \_\_\_•\_Visualizing\_transformers\_and\_attention\_|\_T..."
+  accessed:
+    - year: 2025
+      month: 11
+      day: 15
+  citation-key: 3blue1brownLargeLanguageModels2024
+  dimensions: '0:46'
+  director:
+    - literal: 3Blue1Brown
+  issued:
+    - year: 2024
+      month: 11
+      day: 20
+  source: YouTube
+  title: Large Language Models explained briefly
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=LPZh9BOjkQs
+
 - id: AllgemeineEmpfehlungenIm
   accessed:
     - year: 2025
@@ -13,6 +32,178 @@ references:
   type: post-weblog
   URL: >-
     https://lehre-virtuell.uni-frankfurt.de/knowhow/allgemeine-empfehlungen-im-umgang-mit-generativer-ki-in-studium-und-lehre/
+
+- id: AllgemeineEmpfehlungenIma
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  citation-key: AllgemeineEmpfehlungenIma
+  language: de
+  title: >-
+    Allgemeine Empfehlungen im Umgang mit generativer KI in Studium und Lehre –
+    Lehre virtuell
+  type: post-weblog
+  URL: >-
+    https://lehre-virtuell.uni-frankfurt.de/knowhow/allgemeine-empfehlungen-im-umgang-mit-generativer-ki-in-studium-und-lehre/
+
+- id: andrejkarpathyDeepDiveLLMs2025
+  abstract: >-
+    This is a general audience deep dive into the Large Language Model (LLM) AI
+    technology that powers ChatGPT and related products. It is covers the full
+    training stack of how the models are developed, along with mental models of
+    how to think about their "psychology", and how to get the best use them in
+    practical applications. I have one "Intro to LLMs" video already from ~year
+    ago, but that is just a re-recording of a random talk, so I wanted to loop
+    ar
+  accessed:
+    - year: 2025
+      month: 11
+      day: 15
+  citation-key: andrejkarpathyDeepDiveLLMs2025
+  dimensions: '1:31'
+  director:
+    - literal: Andrej Karpathy
+  issued:
+    - year: 2025
+      month: 2
+      day: 5
+  source: YouTube
+  title: Deep Dive into LLMs like ChatGPT
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=7xTGNNLPyMI
+
+- id: banajiCATCHEyoUMeaningsPractices2018
+  abstract: "This data set contains data related to the ethnographic qualitative study (participant observations and in-depth interviews) of citizens active in youth citizenship organizations. The selected participants are active in supporting, communicating and engaging young people’s active participation in diverse and varied causes (the environment, anti-austerity protests, pro-European vote, voting at 16, anti-fees and cuts campaigns, rights around civic spaces and youth centers, employment and jobs-related campaigns, issues around race and religion, volunteering, refugees, local housing and education). The ethnographic study was performed in Italy, Sweden, Germany, Greece, Portugal, Czech Republic, UK, and Estonia.\_\n\n\nThe data set consists of: (1) eight national textual reports of detailed observations (ethnographic field notes) of youth civic and political organizations/individual youth. The reports are in English and are fully anonymized and redacted. (2) 48 carefully redacted and ethically permissioned English language transcripts of qualitative interviews (6 interviews from each partner country) and (3) 160 carefully redacted and ethically permissioned English language transcripts of participant-observation field notes (20 A4 pages per country).\n\n\nThe names of organisations and personal data of participants or employees have been strictly redacted and anonymized in order to protect participants’ privacy and comply with ethical requirements. Instead generic descriptors such as ‘National Students Organisation’ or ‘Local Municipal Youth Volunteer Centre’ are used throughout.\n\n\nThe data can be reused by researchers who want to compare our data with similar data collected in different countries, to perform textual analysis (content analysis and/or data mining) on our data."
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  author:
+    - family: Banaji
+      given: Shakuntala
+    - family: Menezes
+      given: Isabel
+    - family: Kalmus
+      given: Veronika
+    - family: Motti-Stefanidi
+      given: Frosso
+    - family: Amnå
+      given: Erik
+    - family: Cicognani
+      given: Elvira
+    - family: Noack
+      given: Peter
+    - family: Macek
+      given: Petr
+  citation-key: banajiCATCHEyoUMeaningsPractices2018
+  DOI: 10.5281/zenodo.1313555
+  issued:
+    - year: 2018
+      month: 7
+      day: 16
+  publisher: Zenodo
+  source: Zenodo
+  title: >-
+    CATCH-EyoU: Meanings and Practices of Youth Participation and Cases of
+    Successful Participation: Cross-national Ethnography Cases
+  title-short: CATCH-EyoU
+  type: dataset
+  URL: https://zenodo.org/records/1313555
+
+- id: belcherPrincetonEthiopianEritrean2023
+  abstract: "The Princeton Ethiopian, Eritrean, and Egyptian Miracles of Mary digital humanities project (PEMM) is a comprehensive resource for the miracle stories about the Virgin Mary in Ethiopia, Eritrea, and Egypt, and preserved in Gəˁəz parchment manuscripts between 1300 and the present. Directed by Prof. Wendy Laura Belcher and then managed by Evgeniia Lambrinaki, PEMM was launched in March 2018, using as its base the miracle story identifications William F. Macomber made in the 1980s.\n\n\nDataset. PEMM 2.0 includes the data collected by the project in Google Sheets from its inception to July 4, 2023. This date marked the end of our use of Google Sheets as our database and the end of Jeremy Brown's full-time involvement with the project (when he moved to be the cataloger of Ethiopic manuscripts at HMML). This data includes 1,002 identified stories (or 940 separate stories) (called Canonical Stories); 549 stories translated into English (288 stories translated by PEMM team; 223 stories translated and published by others) and another 200 stories summarized; 676 fully cataloged manuscripts (with another 334 identified, but awaiting digitization) (in Gəˁəz and a few in Arabic) (called Manuscripts); 51,690 stories documented in those manuscripts (called Story Instances); 21,403 typed Gəˁəz incipits (unique first lines) for those stories; and 2,547 paintings with 4,205 scenes in 262 manuscripts (called Paintings). The manuscripts come from 92 repositories and libraries around the world (called Collections) and the stories were composed in Ethiopia, Eritrea, and Egypt (and probably Nubia, although not confirmed), as well as Europe and the Levant (called Story Origins).\n\n\nDatabase. The PEMM Project began by using Google Sheets as a lightweight relational database. To learn about this innovative digital humanities approach by Princeton’s CDH’s, read the “Is a Spreadsheet a Database?” (February 21, 2021) article by PEMM lead developer, Rebecca Sutton Koeser. Due to our extremely large dataset (7 Google sheets in one workbook, each with at least 40 columns, and one with 50,000 rows, with dozens of complex formulas linking the fields in the various sheets), Google Sheets would repeatedly hang up. So, in July we\_migrated all our data to an Aurora PostgreSQL database, accessing it with a content management system called Directus.\_However, this Zenodo dataset represents the data as it last appeared in Google Sheets.\n\n\nWebsite. The current PEMM website (not yet its web application and data portal) is at https://pemm.princeton.edu. We will launch the full web application and data portal in mid-fall 2023.\n\n\nTeam. PEMM was\_created in collaboration with Princeton’s Center for Digital Humanities (mainly with Rebecca Sutton Koesser,\_Jean Bauer, and Nicholas Budak, but\_with additional support from Gissoo Doroudian,\_Rebecca Munson [of beloved memory], and Kevin McElwee);\_directed by Prof. Wendy Laura Belcher; managed primarily by Evgeniia Lambrinaki into mid-2022 and then by Blaine Kebede; contributed to by catalogers Jeremy Brown, Mehari Worku, Dawit Muluneh, Solomon Gebreyes, Vitagrazia Pisani, Ekaterina Pukhovaia, and Steve Delamarter; web programmed by Henok Alem, who was assisted by Pak Hei Li,\_Ayomikun M. Gbadamosi, and Marew Masresha; edited by Taylor Eggan,\_assisted by Bret Windhauser; assisted by Hanni Makonnen for geolocating; typed by volunteers (including Mihret Melaku, Tariku Abas Sherif, Beimnet Beyene Kassaye, Annabel S. Lemma, Tsega-ab Hailemichael, Chiara Lombardi, and Ellen Perleberg); and translatated and/or summarized by Princeton undergraduates (including Lauren D. Johnson, Sana Khan, Jason O. Seavey, Leia R. Walker, Nati Arbelaez Solano, Daniel Somwaru, Mika J. Hyman, Grace Matthews, Allie V. Mangel, Ellen Li, Elliot Galvis). Support at Princeton is provided by Michael Franz and Amanda M. Arcamone.\n\n\nPartners. Among its board members are Elias Wondimu, Melaku Terefe, Solomon Gebreyes, Eyob Derillo, Meron Gebreananaye, Sofanit T. Abebe, Habte Michael Kidane, Hagos Abrha, Mussie Berhe, Woldesemait Teklehaymanot, and Alessandro Bausi. Among PEMM’s institutional partners are Beta Maṣāḥǝft: Manuscripts of Ethiopia and Eritrea at the Hiob Ludolf Centre for Ethiopian Studies of the Universität Hamburg, created and directed by Principal Investigator Alessandro Bausi; Hill Museum & Manuscript Library, led by Father Columba Stewart; and the British Library, Asian and African Collections, with Eyob Derillo as cataloger.\n\n\nInternal Funding. PEMM’s first and second phase were made possible by the Princeton Center for Digital Humanities, directed by Meredith Martin, and its team of Natalia Ermolaev,\_Rebecca Sutton Koeser,\_Gissoo Doroudian,\_Rebecca Munson (of beloved memory),\_Nick Budak,\_and Kevin McElwee. The second phase was supported by a CDH Research Partnership grant. The third phase was funded by the Princeton Humanities Council, executive directed by Kathleen Crown, through the David A. Gardner Innovation Grants for New Projects in the Humanities, and the University Committee on Research in the Humanities and Social Sciences. Other important funders throughout were the Princeton Department of African American Studies, directed by the Eddie S. Glaude, as well as the Program in Gender and Sexuality Studies (directed by Wallace Best), the Program in African Studies (directed by Emmanuel Kreike and now Chika Okeke-Agulu), the Center for the Study of Religion (directed by Jonathan Gold), and the Department of Comparative Literature (directed by Thomas Hare).\n\n\nExternal funding. PEMM’s fourth phase was made possible by two major grants from the National Endowment for the Humanities, awarded for work from fall 2021 through summer 2024. In the 1970s, NEH provided funding for the Ethiopian Manuscript Microfilm Library (EMML), which microfilmed thousands of manuscripts in Ethiopia, which serve as the backbone for the PEMM project. Today, the NEH Scholarly Editions and Scholarly Translations Grant funds the team of experienced researchers with rare language skills to catalog stories in parchment manuscripts, translate stories into English, and write short introductions to them. The NEH Digital Humanities Advancement Grant funds a public-facing open-access web application and data portal to share the stories in, images about, translations of, and scholarship on this crucial body of medieval African literature and to build upon our innovative prototype tool for searching in Gəˁəz."
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  author:
+    - family: Belcher
+      given: Wendy Laura
+    - family: Brown
+      given: Jeremy R.
+    - family: Worku
+      given: Mehari
+    - family: Muluneh
+      given: Dawit
+    - family: Lambrinaki
+      given: Evgeniia
+    - family: Kebede
+      given: Blaine
+    - family: Macomber
+      given: William F.
+    - family: Alem
+      given: Henok
+    - family: Koesser
+      given: Rebecca Sutton
+    - family: Budak
+      given: Nicholas
+    - family: Bauer
+      given: Jean
+    - family: Haile
+      given: Getatchew
+    - family: Tefere
+      given: Asmalu
+    - family: Selasse
+      given: Tasfa Gabra
+    - family: Giyorgis
+      given: Tasfa
+    - family: Berhan
+      given: Gabra Selasse
+    - family: Delamarter
+      given: Steve
+    - family: Pukhovaia
+      given: Ekaterina
+    - family: Reule
+      given: Dorothea
+    - family: Eggan
+      given: Taylor
+    - family: Windhauser
+      given: Bret
+    - family: Munson
+      given: Rebecca
+    - family: Gebreyes
+      given: Solomon
+    - family: Derillo
+      given: Eyob
+    - family: Bausi
+      given: Alessandro
+    - family: Pisani
+      given: Vitagrazia
+    - family: McElwee
+      given: Kevin
+    - family: Parkinson
+      given: Stephen
+    - family: Mihret Melaku; Tariku Abas Sherif
+      given: Beimnet Beyene Kassaye
+      suffix: >-
+        Annabel S. Lemma, Tsega-ab Hailemichael, Chiara Lombardi, Ellen
+        Perleberg
+    - family: Lauren D. Johnson
+      given: Sana Khan
+      suffix: >-
+        Jason O. Seavey, Leia R. Walker, Nati Arbelaez Solano, Daniel Somwaru,
+        Mika J. Hyman, Grace Matthews, Allie V. Mangel, Ellen Li, Elliot Galvis
+    - family: Makonnen
+      given: Hanni
+    - family: Li
+      given: Pak Hei
+    - family: Gbadamosi
+      given: Ayomikun M.
+    - family: Masresha
+      given: Marew
+  citation-key: belcherPrincetonEthiopianEritrean2023
+  DOI: 10.5281/zenodo.8247393
+  issued:
+    - year: 2023
+      month: 8
+      day: 21
+  language: eng
+  publisher: Zenodo
+  source: Zenodo
+  title: Princeton Ethiopian, Eritrean, and Egyptian Miracles of Mary (PEMM) Project
+  type: dataset
+  URL: https://zenodo.org/records/8247393
 
 - id: benderAIConHow2025
   abstract: >-
@@ -57,6 +248,48 @@ references:
   title-short: The AI Con
   type: book
 
+- id: bisigLTSStudyComposer2020
+  abstract: >-
+    This document contains a set of interviews that were conducted in textual
+    form with composers and musicians who participated in the research project
+    "Machine-Learning Assisted Music Composition". The participants were asked
+    to use the machine-learning-based software "Latent Timbre Synthesis" to
+    create a short musical composition. The interviews were conducted after the
+    compositions had been created and served to purpose of evaluating how the
+    software influences the compositional process. The project has been funded
+    through the Scientific Exchanges program of the Swiss National Science
+    Foundation (Grant number: IZSEZ0_190757).
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  author:
+    - family: Bisig
+      given: Daniel
+  citation-key: bisigLTSStudyComposer2020
+  DOI: 10.5281/zenodo.3946712
+  issued:
+    - year: 2020
+      month: 6
+      day: 15
+  publisher: Zenodo
+  source: Zenodo
+  title: LTS Study - Composer Interviews
+  type: dataset
+  URL: https://zenodo.org/records/3946712
+
+- id: BronislawMalinowskiPapers
+  accessed:
+    - year: 2025
+      month: 11
+      day: 15
+  citation-key: BronislawMalinowskiPapers
+  title: >-
+    Bronislaw Malinowski papers, 1869-1946, bulk 1914-1939 - CAO: Powered by
+    ArcLight and hosted at Western CT State University
+  type: webpage
+  URL: https://archives.library.wcsu.edu/caoSearch/bookmarks/cty_mssa-ms-0019
+
 - id: brownRelationOrientedAIWhy2023
   accessed:
     - year: 2025
@@ -88,6 +321,136 @@ references:
   type: chapter
   URL: >-
     https://dhdebates.gc.cuny.edu/read/debates-in-the-digital-humanities-2023/section/98dc1c8f-8583-4428-ac84-17ff072bdcad
+
+- id: CategoryBrowseData
+  abstract: >-
+    Interactive Categorized Hierarchy of Over 1000 Data Collections in Data
+    Archive
+  accessed:
+    - year: 2025
+      month: 11
+      day: 15
+  citation-key: CategoryBrowseData
+  container-title: The Association of Religion Data Archives (the ARDA)
+  language: en-gb
+  title: Category Browse | Data Archive
+  type: webpage
+  URL: https://www.thearda.com/data-archive/browse-categories?cid=B
+
+- id: centersFutureGeorgia20202025
+  abstract: >-
+    The Future of Georgia project aims to understand significant issues in
+    Georgia's recent past, to think about where Georgia is headed. The "Future
+    of Georgia 2020" survey explores how Georgians perceive their national
+    identity, values, and the country's political and social direction,
+    including views on religion, minority rights, language, and foreign
+    relations. It also gathers demographic data and examines attitudes toward
+    past and present governments, historical events, and Georgia's place between
+    Europe and Russia. The project is run in partnership with the Carnegie
+    Foundation for International Peace Europe Office and the Levan Mikeladze
+    Foundation. The project was financed by the Government of Sweden.
+
+
+    Population: Adult population (18 years old and over), excluding the
+    populations living in territories affected by military conflict (South
+    Ossetia and Abkhazia). Besides nationwide, data is representative of
+    Tbilisi, urban and rural areas of Georgia.
+
+
+    Sample Design: Multi-stage cluster sampling with preliminary stratification.
+
+
+    Sample Size: 1,928 respondents.
+
+
+    Response rate: 32%
+
+
+    Survey mode: Computer-assisted personal interview (CAPI).
+
+
+    Interview languages: Georgian, Armenian and Azerbaijani.
+
+
+    Fieldwork Dates: September 10, 2020 to September 28, 2020.
+
+
+    Results are weighted.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  author:
+    - family: Centers
+      given: Caucasus Research Resource
+  citation-key: centersFutureGeorgia20202025
+  DOI: 10.5281/zenodo.17176732
+  issued:
+    - year: 2025
+      month: 9
+      day: 22
+  publisher: Zenodo
+  source: Zenodo
+  title: The Future of Georgia 2020
+  type: dataset
+  URL: https://zenodo.org/records/17176732
+
+- id: centersHateCrimeHate2025
+  abstract: >-
+    The goal of the study was understanding appreciation and awareness of the
+    following issues: The diversity in Georgian society; The rights of
+    minorities and vulnerable groups; Occurrence of discrimination, hate crime
+    and hate speech in Georgian society and who it affects; Georgian legislation
+    against discrimination, hate crime, and hate speech; Existing redress
+    mechanisms and their effectiveness; Contribution of different actors.
+
+
+    Population: Adult population (18 years old and over), excluding the
+    populations living in territories affected by military conflict (South
+    Ossetia and Abkhazia). Besides nationwide, data is representative of
+    Tbilisi, urban and rural areas of Georgia. In addition, the sample is also
+    representative of areas where the population's main language is Armenian as
+    well as of those were the population's main language is Azeri.
+
+
+    Sample Design: Multi-stage cluster sampling with preliminary stratification.
+
+
+    Survey mode: Computer-assisted personal interview (CAPI).
+
+
+    Interview languages: Georgian, Armenia and Azerbaijani.
+
+
+    Results are weighted.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  author:
+    - family: Centers
+      given: Caucasus Research Resource
+  citation-key: centersHateCrimeHate2025
+  DOI: 10.5281/zenodo.16309575
+  issued:
+    - year: 2025
+      month: 7
+      day: 22
+  publisher: Zenodo
+  source: Zenodo
+  title: Hate crime, hate speech, and discrimination in Georgia
+  type: dataset
+  URL: https://zenodo.org/records/16309575
+
+- id: CommonCrawlArchives
+  accessed:
+    - year: 2025
+      month: 11
+      day: 15
+  citation-key: CommonCrawlArchives
+  title: Common Crawl Archives 2013-2025
+  type: webpage
+  URL: https://data.commoncrawl.org/crawl-data/index.html
 
 - id: cossioComprehensiveTaxonomyHallucinations2025
   abstract: >-
@@ -136,6 +499,58 @@ references:
   type: article
   URL: http://arxiv.org/abs/2508.01781
 
+- id: cotticaPOPREBELSemanticSocial2022
+  abstract: "The POPREBEL project explores the phenomenon of populism in Europe. As part of it, a team of ethnographers generated and coded the corpus contained in this dataset. It consists of coded interviews, realized between spring 2021 and spring 2022, to Internet users in Czechia, Germany and Poland, who used social media to gather information about the COVID-19 pandemic. The dataset is pseudonymized. POPREBEL is supported by the European Union's Horizon 2020 programme, grant n. 822682.\n\n\n\n\t\nFinal ethnographic report. Section 1.2 contains a detailed description of how and why data were collected.\n\t\nFunnel website of the project.\n\t\nAbout semantic social networks.\n\t\nData export and documentation process (contains links to the code used to export the data)"
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  author:
+    - family: Cottica
+      given: Alberto
+    - family: Davidov
+      given: Veronica
+    - family: Góralska
+      given: Magdalena
+    - family: Kocian
+      given: Jiří
+    - family: Králová
+      given: Jitka
+    - family: Kubik
+      given: Jan
+    - family: Mole
+      given: Richard
+    - family: Rivera-Cardona
+      given: Santos
+    - family: Sauerborn
+      given: Djan
+    - family: Sloboda
+      given: Zdeněk
+    - family: Szymański
+      given: Wojciech
+  citation-key: cotticaPOPREBELSemanticSocial2022
+  DOI: 10.5281/zenodo.7477600
+  issued:
+    - year: 2022
+      month: 12
+      day: 23
+  language: mul
+  publisher: Zenodo
+  source: Zenodo
+  title: The POPREBEL semantic social network data
+  type: dataset
+  URL: https://zenodo.org/records/7477600
+
+- id: DatabaseReligiousHistory
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  citation-key: DatabaseReligiousHistory
+  title: The Database of Religious History
+  type: webpage
+  URL: https://religiondatabase.org/landing
+
 - id: DistantViewingExplorer
   accessed:
     - year: 2025
@@ -162,6 +577,66 @@ references:
   title-short: 'DSC #23'
   type: webpage
   URL: https://datasittersclub.github.io/site/dsc23.html
+
+- id: EVIADigitalArchive
+  accessed:
+    - year: 2025
+      month: 11
+      day: 15
+  citation-key: EVIADigitalArchive
+  title: 'EVIA Digital Archive Project Media: Home'
+  type: webpage
+  URL: https://media.eviada.org/eviadasb/home.html
+
+- id: fortaneInterviewsVietnam2024
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  author:
+    - family: Fortané
+      given: ''
+  citation-key: fortaneInterviewsVietnam2024
+  DOI: 10.18167/DVN1/GITSRP
+  issued:
+    - year: 2024
+      month: 1
+      day: 15
+  publisher: Zenodo
+  source: Zenodo
+  title: Interviews in Vietnam
+  type: dataset
+  URL: https://zenodo.org/records/10514093
+
+- id: FoundManuscriptsArchives
+  accessed:
+    - year: 2025
+      month: 11
+      day: 15
+  citation-key: FoundManuscriptsArchives
+  title: >-
+    Found In: Manuscripts and Archives > Bronislaw Malinowski papers (MS 19) >
+    Writings, Lectures and Research Materials > Fieldwork Materials / Collection
+    Title: Bronislaw Malinowski papers (MS 19) / Repository: Manuscripts and
+    Archives / Grouping: Series II: Writings, Lectures and Research Materials -
+    Yale University Library Search Results
+  type: webpage
+  URL: >-
+    https://collections.library.yale.edu/catalog?f%5Bancestor_titles_hierarchy_ssim%5D%5B%5D=Manuscripts+and+Archives+%3E+Bronislaw+Malinowski+papers+%28MS+19%29+%3E+Writings%2C+Lectures+and+Research+Materials+%3E+Fieldwork+Materials&f%5Bcollection_title_ssi%5D%5B%5D=Bronislaw+Malinowski+papers+%28MS+19%29&f%5Brepository_ssi%5D%5B%5D=Manuscripts+and+Archives&f%5Bseries_sort_ssi%5D%5B%5D=00001%7CSeries+II%3A+Writings%2C+Lectures+and+Research+Materials
+
+- id: GuideAnthropologicalFieldnotes
+  abstract: "CREDITS: This guide continues a survey initiated by Kathleen T. Baxter and James R. Glenn of the National Anthropological Archives in 1987. The location of\_many physical anthropologists’ papers derives from […]"
+  accessed:
+    - year: 2025
+      month: 11
+      day: 15
+  citation-key: GuideAnthropologicalFieldnotes
+  container-title: CoPAR
+  language: en-US
+  title: Guide to Anthropological Fieldnotes and Manuscripts in Archival Repositories
+  type: post-weblog
+  URL: >-
+    https://copar.umd.edu/guide-to-anthropological-fieldnotes-and-manuscripts-in-archival-repositories/
 
 - id: haoEmpireAIDreams2025
   abstract: >-
@@ -218,6 +693,160 @@ references:
   title: 'Empire of AI: dreams and nightmares in Sam Altman''s OpenAI'
   title-short: Empire of AI
   type: book
+
+- id: ibmtechnologyHowLargeLanguage2023
+  abstract: |-
+    Learn in-demand Machine Learning skills now → https://ibm.biz/BdK65D
+    Learn about watsonx → https://ibm.biz/BdvxRj
+  accessed:
+    - year: 2025
+      month: 11
+      day: 15
+  citation-key: ibmtechnologyHowLargeLanguage2023
+  dimensions: '5:33'
+  director:
+    - literal: IBM Technology
+  issued:
+    - year: 2023
+      month: 7
+      day: 28
+  source: YouTube
+  title: How Large Language Models Work
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=5sLYAQS9sWQ
+
+- id: ibmtechnologyWhyLargeLanguage2023
+  abstract: >-
+    Learn about watsonx: https://ibm.biz/BdvxRD
+
+
+    Large language models (LLMs) like chatGPT can generate
+    authoritative-sounding prose on many topics and domains, they are also prone
+    to just "m
+  accessed:
+    - year: 2025
+      month: 11
+      day: 15
+  citation-key: ibmtechnologyWhyLargeLanguage2023
+  dimensions: '9:37'
+  director:
+    - literal: IBM Technology
+  issued:
+    - year: 2023
+      month: 4
+      day: 20
+  source: YouTube
+  title: Why Large Language Models Hallucinate
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=cfqtFvWOfg0
+
+- id: konstantinConstmeWhisper2025
+  abstract: >-
+    High-performance GPGPU inference of OpenAI's Whisper automatic speech
+    recognition (ASR) model
+  accessed:
+    - year: 2025
+      month: 11
+      day: 15
+  author:
+    - family: Konstantin
+      given: ''
+  citation-key: konstantinConstmeWhisper2025
+  genre: C++
+  issued:
+    - year: 2025
+      month: 11
+      day: 15
+  license: MPL-2.0
+  original-date:
+    - year: 2023
+      month: 1
+      day: 7
+  source: GitHub
+  title: Const-me/Whisper
+  type: software
+  URL: https://github.com/Const-me/Whisper
+
+- id: LMStudioLocal
+  abstract: >-
+    Run local AI models like gpt-oss, Llama, Gemma, Qwen, and DeepSeek privately
+    on your computer.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  citation-key: LMStudioLocal
+  container-title: LM Studio
+  language: en
+  title: LM Studio - Local AI on your computer
+  type: webpage
+  URL: https://lmstudio.ai
+
+- id: LobeChatAuthorisation
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  citation-key: LobeChatAuthorisation
+  title: 'LobeChat: Authorisation'
+  type: webpage
+  URL: https://lobechat.s.studiumdigitale.uni-frankfurt.de/
+
+- id: lodagalaVasistalodagalaWhisperfinetune2025
+  abstract: >-
+    Fine-tune and evaluate Whisper models for Automatic Speech Recognition (ASR)
+    on custom datasets or datasets from huggingface.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  author:
+    - family: Lodagala
+      given: Vasista
+  citation-key: lodagalaVasistalodagalaWhisperfinetune2025
+  genre: Python
+  issued:
+    - year: 2025
+      month: 11
+      day: 12
+  license: MIT
+  original-date:
+    - year: 2023
+      month: 4
+      day: 24
+  source: GitHub
+  title: vasistalodagala/whisper-finetune
+  type: software
+  URL: https://github.com/vasistalodagala/whisper-finetune
+
+- id: martiniCorpusLinguisticsAnalysis2021
+  abstract: >-
+    Dataset resulting fomr the analysis of the entire production of papal
+    Encyclicals, Apostolic Exhortations and World Communication Day addresses
+    from 1967 to 2020. This included two phases. Firstly, texts were studied
+    through a corpus linguistics software to identify and quantify the presence
+    of terms that refer to mass media and new media technologies. Subsequently,
+    an in-depth study around the evolution of the term “media” was conducted,
+    including the selection and categorization of the term’s correlated verbs
+    and their ethical characterization.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  author:
+    - family: Martini
+      given: Michele
+  citation-key: martiniCorpusLinguisticsAnalysis2021
+  DOI: 10.5281/zenodo.4593269
+  issued:
+    - year: 2021
+      month: 3
+      day: 10
+  publisher: Zenodo
+  source: Zenodo
+  title: Corpus Linguistics Analysis of Vatican Documents from 1967 to 2020
+  type: dataset
+  URL: https://zenodo.org/records/4593269
 
 - id: mollickCoIntelligenceLivingWorking2024
   abstract: >-
@@ -282,6 +911,58 @@ references:
   URL: >-
     https://uclpress.co.uk/book/navigating-artificial-intelligence-for-cultural-heritage-organisations/
 
+- id: ottonelloInterviewsTranscriptions2023
+  abstract: "This is a full set of transcriptions of all the interviews conducted to complete a research dedicated towards evaluating emotive research content, identifying areas of interest that may have not been the core areas in some of the original research papers, and creating a digital archaeo game or the purpose of testing the extracted theory in terms of emotive triggers in nostalgic and negative emotive archaeological environments. The transcriptions have been handwritten and reviewed several times but may contain some grammatical and spelling mistakes due to some issues with unstable connections during the video and audio recording or due to the inability to understand some of the spoken languages at times. Due to the nature of the research the interviewed subjects have\_ agreed in writing to be named and therefore it contains the real names of the people involved in the experiment.\n\n\nOverall this raw data set has been used to further investigate the area of emotive studies but may in the future be useful for many other applications as there were a wide variety of topics being discussed and the open-ended questions structure made this a very fruitful resource."
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  author:
+    - family: Ottonello
+      given: Luca
+  citation-key: ottonelloInterviewsTranscriptions2023
+  DOI: 10.5281/zenodo.8189283
+  issued:
+    - year: 2023
+      month: 7
+      day: 27
+  language: eng
+  publisher: Zenodo
+  source: Zenodo
+  title: Interviews transcriptions
+  type: dataset
+  URL: https://zenodo.org/records/8189283
+
+- id: poulsenStandardCrossCulturalSample2025
+  abstract: "The Standard Cross-Cultural Sample of Religion is a product of the\_Database of Religious History (DRH). The DRH is a qualitative-quantitative encyclopedic database of historical religious data across time and space. Data are contributed to the project by academic\_experts\_and overseen by a panel of\_editors. The data take the form of answers (provided by experts) to a long list of standard questions grounded in time and space.\n\nThe Standard Cross-Cultural Sample of Religion is “standard” in a different way than its namesake, The Standard Cross-Cultural Sample (SCCS). The SCCS was designed to control for region and cultural relatedness. Because of our mostly bottom-up, expert-driven data gathering method, DRH data is heavily overweighted in certain time/space regions. Analysts will have to control for this as they see fit.\n\nOn the other hand, DRH data is “standard” in the sense that whatever Group, Place of Text is being portrayed, experts are answering a standardized set of questions, allowing a degree of comparison and quantitative analysis that has simply never been possible before. As the DRH grows, top-down data-gathering pushes will be targeted at underrepresented regions of the world, with the goal of making future versions of the SCCSR more and more comprehensive.\n\nThe Standard Cross-Cultural Sample of Religion (SCCSR.v2) is provided under CC-BY-4.0 license."
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  author:
+    - family: Poulsen
+      given: Victor Møller
+    - family: Spicer
+      given: Rachel
+    - family: Slingerland
+      given: Edward
+    - family: Muthukrishna
+      given: Michael
+    - family: Monroe
+      given: M. Willis
+  citation-key: poulsenStandardCrossCulturalSample2025
+  DOI: 10.5281/zenodo.14967261
+  issued:
+    - year: 2025
+      month: 2
+      day: 25
+  language: eng
+  publisher: Zenodo
+  source: Zenodo
+  title: Standard Cross-Cultural Sample of Religion
+  type: dataset
+  URL: https://zenodo.org/records/14967261
+
 - id: prohlReligionizationWorldObfuscation2025
   abstract: >-
     This article examines how museums and exhibitions present the use and impact
@@ -324,6 +1005,18 @@ references:
   type: article-journal
   URL: https://doi.org/10.1080/0048721X.2025.2502292
   volume: '55'
+
+- id: PurfviewWhisperstandalonewinWhisper
+  accessed:
+    - year: 2025
+      month: 11
+      day: 15
+  citation-key: PurfviewWhisperstandalonewinWhisper
+  title: >-
+    Purfview/whisper-standalone-win: Whisper & Faster-Whisper standalone
+    executables for those who don't want to bother with Python.
+  type: webpage
+  URL: https://github.com/Purfview/whisper-standalone-win?tab=readme-ov-file
 
 - id: rahmeReligiousStudiesApproaches2025
   abstract: >-
@@ -419,6 +1112,22 @@ references:
   type: webpage
   URL: https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/
 
+- id: ReligionDatasets
+  abstract: >-
+    Pew Research Center makes its data available to the public for secondary
+    analysis after a period of time. See this post for more information on how
+    to use
+  accessed:
+    - year: 2025
+      month: 11
+      day: 15
+  citation-key: ReligionDatasets
+  container-title: Pew Research Center
+  language: en-US
+  title: Religion Datasets
+  type: post-weblog
+  URL: https://www.pewresearch.org/religion-datasets/
+
 - id: risamWhatPassesHuman2018
   abstract: Start reading this text on Debates in the DH Manifold
   accessed:
@@ -449,6 +1158,32 @@ references:
   URL: >-
     https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/34d51cdb-2a89-4e4b-9762-bf6461cf0bb7#ch03
 
+- id: ruskMetadataDataCollected2024
+  abstract: "This archive contains metadata for material collected by the research project From the Ground Up: Buddhism and East Asian Religions (FROGBEAR), based at the University of British Columbia (UBC) and sponsored by a partnership grant from the\_Social Science and Humanities Research Council of Canada.\_\n\nThe project produced photographs and video recordings for the study of Buddhism and other religions of East Asia. They were collected primarily in China, Japan, Korea, Taiwan, and Thailand.\_\n\nThe material was collected between 2017 and 2023 by participants in the \_FROGBEAR project, and is also stored in the Open Collections of the UBC Library. It, and all the documents in this archive, are released under a Creative Commons Attribution 4.0 License.\n\nThe metadata consists of 1558 records, each describing one or more digital objects (files). These files will be available separately on Zenodo. In total 7806 files are described, in the following formats:\n\n\n\nJPEG image, 5862 files\n\nTIFF image, 1649 files\n\nPNG image, 157 files\n\nMP4 video, 104 files\n\nQuicktime video, 30 files\n\nMPEG video, 2 files\n\nPDF document, 1 file\n\nXLSX spreadsheet, 1 file\n\n\nThe metadata uses a subset of the Dublin Core Terms, as specified by the UBC Library.\_\n\nThe metadata is provided in several formats:\n\n\n\nA spreadsheet in OpenDocument Spreadsheet format, titled \"FROGBEAR Metadata and File List.ods\". This file contains two tables, FROGBEAR_Records, containing key data from all metadata records, and FROGBEAR_Files, containing a list of folder and filenames, keyed to the unique identifiers (ID) in the FROGBEAR_Records table.\n\nTwo Comma-Separated Value format files (UTF-8 encoding), containing the metadata records (\"FROGBEAR Metadata.csv\") and a list of files (\"FROGBEAR File List.csv\")\n\nComplete metadata in JSON format, with one JSON file for each record, in three folders representing separate collections in which the records were orginally stored in the UBC Library Open Collections. These categorizations are not relevant for most purposes, but are maintained for legacy compatibility:\n\n\n\n42591: Graduate Research\n\n52383: Faculty Research and Publications\n\n52387: UBC Community and Partner Publications\n\n\n\nComplete metadata in RDF XML format, with one XML file for each record, in the same structure as for JSON files above."
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  author:
+    - family: Rusk
+      given: Bruce
+    - family: Columbia
+      given: University of British
+    - family: Rusk
+      given: Bruce
+  citation-key: ruskMetadataDataCollected2024
+  DOI: 10.5281/zenodo.14502544
+  issued:
+    - year: 2024
+      month: 12
+      day: 16
+  language: eng
+  publisher: Zenodo
+  source: Zenodo
+  title: Metadata for data collected by the FROGBEAR project, 2017-2023
+  type: dataset
+  URL: https://zenodo.org/records/14502544
+
 - id: russellArtificialIntelligenceModern2022
   author:
     - family: Russell
@@ -475,6 +1210,30 @@ references:
   type: book
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Felibrary.pearson.de%2Fbook%2F99.150005%2F9781292401171
+
+- id: sainzInterviewsQuestionnairePilot2023
+  abstract: >-
+    Anonymized data set from questionnaires and interviews carried out in the
+    three pilot islands in REACT project.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  author:
+    - family: Sainz
+      given: Fausto
+  citation-key: sainzInterviewsQuestionnairePilot2023
+  DOI: 10.5281/zenodo.8348386
+  issued:
+    - year: 2023
+      month: 9
+      day: 15
+  language: eng
+  publisher: Zenodo
+  source: Zenodo
+  title: Interviews Questionnaire Pilot Islands
+  type: dataset
+  URL: https://zenodo.org/records/8348386
 
 - id: selokarBasicAdvancedRAG2024
   abstract: >-
@@ -588,6 +1347,37 @@ references:
   URL: https://doi.org/10.1080/0048721X.2025.2502294
   volume: '55'
 
+- id: sonnleithnerDataMentionsNames2024
+  abstract: "This graphs are the result of a distant reading of the Archives Parlementaires (AP), the edition of discourses (and documents related to discourses) pronounced in the French national assemblies during the French Revolution. We made a list of names of God and searched for them. We classified the results also according to time. We can get an idea of the changes in the frequency of mentions of God, and in the names used to speak of God.\n\nYet it must also be mentioned that we may not have identified all possible mentions of God, for two reasons: 1) God can be referred to implicitely or through rarer expressions; 2) there are OCR errors.\_\n\nThe actual figures should be thus significantly higher. In the framework of our project, we did not intend to obtain statistical precision. It was enough for us to show that mentions of God played an important role in the political culture of the French Revolution."
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  author:
+    - family: Sonnleithner
+      given: Mathias
+    - family: Dostert
+      given: Cassandra
+  citation-key: sonnleithnerDataMentionsNames2024
+  DOI: 10.5281/zenodo.14042075
+  issued:
+    - year: 2024
+      month: 11
+      day: 5
+  language: fra
+  publisher: Zenodo
+  source: Zenodo
+  title: >-
+    Data - Mentions and names of God in the Archives Parlementaires (French
+    Revolution)
+  type: dataset
+  URL: https://zenodo.org/records/14042075
+
+- id: Tags
+  citation-key: Tags
+  title: Tags
+  type: document
+
 - id: TextualDataProcessing
   abstract: >-
     A short webinar of three episodes giving an introduction into the use of
@@ -603,6 +1393,63 @@ references:
   title: Textual Data Processing with LLM in the Humanities
   type: webpage
   URL: http://www.youtube.com/playlist?list=PLEgLiY_3gL-hNfDKFYGqF_fDQY4A6OY2o
+
+- id: tranProdemocracyPlatformAdvocacy2024
+  abstract: "As part of an MSCA postdoctoral project entitled \"Pro-Democracy Platform Advocacy: Fostering Social Media's Accountability to Dissident Voices under Authoritarianism\", we share a dataset of (a) materials used in expert interviews conducted during December 2023 - March 2024, (b) metadata and coding on public Facebook content posted during March - April 2024, and (c) regression code and output of a model to assess the availability of pro-authoritarian accounts. First, we conducted semi-structured expert\_interviews\_with 38 respondents from Myanmar, Thailand, and Cambodia. Second, based on insight from the interviews, we built a list of prominent political Facebook accounts and keywords to capture\_Myanmar, Cambodian, and Thai authoritarian content, including pro-regime propaganda, anti-dissident disinformation, promotion of anti-dissident violence, or anti-dissident doxing content. We used CrowdTangle – Meta's own social media monitoring tool – to capture content on a daily basis based on our list of authoritarian accounts and keywords. This dataset includes metadata on random samples of 2000 Myanmar posts, 2000 Thai posts, and 2000 Cambodian posts with qualitative coding. Third, to examine whether Myanmar accounts that have posted authoritarian content are more likely to be removed by Meta afterwards, compared to non-Myanmar accounts, we ran a mixed-effects logistic regression (with Stata version 14.2) on all authoritarian posts in our coded dataset (N=3112).\n\nTo ensure privacy and confidentiality of vulnerable participants, this dataset does not contain (a) interview transcripts or interviewees' identifying information or (b) original social media posts or their identifying information such as URLs, authors' names, or channels' names. We further redacted other personal data from the informed consent forms."
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  author:
+    - family: Tran
+      given: Mai Van
+    - family: Phattharathanasut
+      given: Tuwanont
+    - family: Soe Nyunt
+      given: Haymarn
+    - family: Ekapong
+      given: Nalinthip
+    - family: Young
+      given: Lewis
+    - family: Soth
+      given: Peosamnang
+  citation-key: tranProdemocracyPlatformAdvocacy2024
+  DOI: 10.5281/zenodo.14471006
+  issued:
+    - year: 2024
+  publisher: Zenodo
+  source: Zenodo
+  title: 'Pro-democracy platform advocacy: A dataset of project-related content'
+  title-short: Pro-democracy platform advocacy
+  type: dataset
+  URL: https://zenodo.org/records/14471006
+
+- id: TrobriandIslandsFieldwork
+  abstract: >-
+    Records findings and sketches observations. Written while conducting
+    fieldwork among the villages and tribes of the Trobriand Islands in 1915 and
+    early 1916 and in 1918. Many of the notebooks and not…
+  accessed:
+    - year: 2025
+      month: 11
+      day: 15
+  citation-key: TrobriandIslandsFieldwork
+  language: en-gb
+  title: Trobriand Islands fieldwork notebooks and notes
+  type: webpage
+  URL: https://archives.lse.ac.uk/records/MALINOWSKI/2
+
+- id: UniversityCaliforniaAngeles
+  accessed:
+    - year: 2025
+      month: 11
+      day: 15
+  citation-key: UniversityCaliforniaAngeles
+  title: >-
+    University of California, Los Angeles, Ethnomusicology Archive : Free Texts
+    : Free Download, Borrow and Streaming : Internet Archive
+  type: webpage
+  URL: https://archive.org/details/uclaethnomusicologyarchive
 
 - id: WhenDataTurns
   abstract: >-
@@ -622,4 +1469,25 @@ references:
   title-short: When data turns into archives
   type: webpage
   URL: https://link.springer.com/collections/eabccfhhbd
+
+- id: WhisperDesktopFree2025
+  abstract: >-
+    A 5-minute quick start guide for Whisper Desktop, an easy-to-install Windows
+    application for running the open-source Whisper transcription model from
+    OpenAI.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 15
+  citation-key: WhisperDesktopFree2025
+  container-title: No Longer Set
+  issued:
+    - year: 2025
+      month: 4
+      day: 6
+  language: en
+  title: 'Whisper Desktop: Free Speech-to-Text in Under 5 Minutes'
+  title-short: Whisper Desktop
+  type: webpage
+  URL: https://nolongerset.com/whisper-desktop/
 ...
