@@ -19,6 +19,26 @@ references:
   type: motion_picture
   URL: https://www.youtube.com/watch?v=LPZh9BOjkQs
 
+- id: 85BestSystem2023
+  abstract: >-
+    As artificial intelligence (AI) keeps getting better and better at a
+    breakneck pace, language models like ChatGPT are becoming more and more
+    popular for a
+  accessed:
+    - year: 2025
+      month: 11
+      day: 15
+  citation-key: 85BestSystem2023
+  issued:
+    - year: 2023
+      month: 3
+      day: 26
+  language: en-US
+  section: Prompts
+  title: 85 Best System Prompts To Get Better ChatGPT Responses - Automators Lab
+  type: post-weblog
+  URL: https://automatorslab.ai/blog/prompts/best-system-prompts-for-chatgpt/
+
 - id: AllgemeineEmpfehlungenIm
   accessed:
     - year: 2025
