@@ -93,6 +93,31 @@ references:
   type: motion_picture
   URL: https://www.youtube.com/watch?v=7xTGNNLPyMI
 
+- id: arnoldIntroductionSpecialIssue2021
+  author:
+    - family: Arnold
+      given: Taylor
+    - family: Scagliola
+      given: Stefania
+    - family: Tilton
+      given: Lauren
+    - family: Gorp
+      given: Jasmijn Van
+  citation-key: arnoldIntroductionSpecialIssue2021
+  container-title: Digital Humanities Quarterly
+  container-title-short: DHQ
+  ISSN: 1938-4122
+  issue: '1'
+  issued:
+    - year: 2021
+      month: 3
+      day: 5
+  source: COinS
+  title: 'Introduction: Special Issue on AudioVisual Data in DH'
+  title-short: Introduction
+  type: article-journal
+  volume: '015'
+
 - id: banajiCATCHEyoUMeaningsPractices2018
   abstract: "This data set contains data related to the ethnographic qualitative study (participant observations and in-depth interviews) of citizens active in youth citizenship organizations. The selected participants are active in supporting, communicating and engaging young people’s active participation in diverse and varied causes (the environment, anti-austerity protests, pro-European vote, voting at 16, anti-fees and cuts campaigns, rights around civic spaces and youth centers, employment and jobs-related campaigns, issues around race and religion, volunteering, refugees, local housing and education). The ethnographic study was performed in Italy, Sweden, Germany, Greece, Portugal, Czech Republic, UK, and Estonia.\_\n\n\nThe data set consists of: (1) eight national textual reports of detailed observations (ethnographic field notes) of youth civic and political organizations/individual youth. The reports are in English and are fully anonymized and redacted. (2) 48 carefully redacted and ethically permissioned English language transcripts of qualitative interviews (6 interviews from each partner country) and (3) 160 carefully redacted and ethically permissioned English language transcripts of participant-observation field notes (20 A4 pages per country).\n\n\nThe names of organisations and personal data of participants or employees have been strictly redacted and anonymized in order to protect participants’ privacy and comply with ethical requirements. Instead generic descriptors such as ‘National Students Organisation’ or ‘Local Municipal Youth Volunteer Centre’ are used throughout.\n\n\nThe data can be reused by researchers who want to compare our data with similar data collected in different countries, to perform textual analysis (content analysis and/or data mining) on our data."
   accessed:
@@ -713,6 +738,36 @@ references:
   title: 'Empire of AI: dreams and nightmares in Sam Altman''s OpenAI'
   title-short: Empire of AI
   type: book
+
+- id: hughesVectaraHallucinationLeaderboard2023
+  abstract: >-
+    Leaderboard Comparing LLM Performance at Producing Hallucinations when
+    Summarizing Short Documents
+  accessed:
+    - year: 2025
+      month: 11
+      day: 18
+  author:
+    - family: Hughes
+      given: Simon
+    - family: Bae
+      given: Minseok
+    - family: Li
+      given: Miaoran
+  citation-key: hughesVectaraHallucinationLeaderboard2023
+  genre: Python
+  issued:
+    - year: 2023
+      month: 11
+  license: Apache-2.0
+  original-date:
+    - year: 2023
+      month: 10
+      day: 31
+  source: GitHub
+  title: Vectara Hallucination Leaderboard
+  type: software
+  URL: https://github.com/vectara/hallucination-leaderboard
 
 - id: ibmtechnologyHowLargeLanguage2023
   abstract: |-
