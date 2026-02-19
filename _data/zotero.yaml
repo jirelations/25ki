@@ -280,7 +280,6 @@ references:
     - family: Hanna
       given: Alex
   citation-key: benderAIConHow2025
-  event-place: New York
   ISBN: 978-0-06-341856-1
   issued:
     - year: 2025
@@ -355,7 +354,6 @@ references:
       given: Matthew K.
     - family: Klein
       given: Lauren F.
-  event-place: Minneapolis
   issued:
     - year: 2023
   publisher: University of Minnesota Press
@@ -725,7 +723,6 @@ references:
     - family: Hao
       given: Karen
   citation-key: haoEmpireAIDreams2025
-  event-place: New York
   ISBN: 978-0-593-65750-8
   issued:
     - year: 2025
@@ -950,7 +947,6 @@ references:
     - family: Mollick
       given: Ethan
   citation-key: mollickCoIntelligenceLivingWorking2024
-  event-place: New York
   ISBN: 978-0-593-71671-7
   issued:
     - year: 2024
@@ -1220,7 +1216,6 @@ references:
       given: Elizabeth
     - family: Wernimont
       given: Jacqueline
-  event-place: Minneapolis
   issued:
     - year: 2018
   language: en-US
@@ -1269,7 +1264,6 @@ references:
       given: Ming-wei (Verfasser)
   citation-key: russellArtificialIntelligenceModern2022
   edition: Fourth edition, global edition
-  event-place: München
   ISBN: 978-1-292-40117-1
   issued:
     date-parts:
